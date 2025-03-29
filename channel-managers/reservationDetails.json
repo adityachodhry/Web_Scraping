@@ -1,0 +1,113 @@
+{
+  "hotelCode": "string",
+  "reservationNumber": "string",
+  "isGroup": "boolean",
+  "source": "string",
+  "guestDetails": {
+    "guestInfo": {
+      "name": "string",
+      "contactInfo": {
+        "email": "string",
+        "phones": [
+          {
+            "type": "string",
+            "number": "string"
+          }
+        ]
+      },
+      "address": {
+        "streetAddress": "string",
+        "guestCity": "string",
+        "guestState": "string",
+        "guestCountry": "string",
+        "guestZipCode": "string",
+        "guestNationality": "string"
+      },
+      "guestCompanyName": "string",
+      "guestCompanyEmail": "string",
+      "guestCompanyGstn": "string"
+    }
+  },
+  "guestSegment": "string",
+  "sourceSegment": "string",
+  "bookingDetails": {
+    "arrivalDate": "date",
+    "departureDate": "date",
+    "totalNights": "number",
+    "checkInTime": "string",
+    "checkOutTime": "string",
+    "currentStatus": "string",
+    "lastStatus": "string",
+    "bookingType": "string",
+    "salesOffice": "string",
+    "salesExecutive": "string",
+    "releasedBy": "string",
+    "roomDetails": {
+      "roomTypeId": "number",
+      "roomTypeName": "string",
+      "roomNumber": "number",
+      "roomPlan": "string",
+      "pax": {
+        "totalAdults": "number",
+        "totalChildren": "number"
+      }
+    },
+    "payAtHotel": "boolean",
+    "referenceNumber": "string",
+    "invoiceNumber": "string",
+    "roomBillTo": "string",
+    "extrasBillTo": "string",
+    "paymentNotes": "string",
+    "internalNotes": "string",
+    "createdOn": "date",
+    "createdBy": "string",
+    "lastModifiedOn": "date",
+    "lastModifiedBy": "string"
+  },
+  "paymentDetails": {
+    "status": "string",
+    "amount": "number",
+    "date": "date",
+    "outstanding": "number",
+    "receiptNumber": "string"
+  },
+  "priceSummary": {
+    "roomCost": "number",
+    "totalCost": "number",
+    "commissionAmount": "number",
+    "gstOnCommission": "number",
+    "tcsAmount": "number",
+    "tdsAmount": "number",
+    "payableToOta": "number",
+    "taxAmount": "number",
+    "discountReason": "string",
+    "isPriceOverride": "boolean",
+    "isComplementary": "boolean",
+    "isRoomBillSent": "boolean",
+    "isExtrasBillSent": "boolean",
+    "isUpgraded": "boolean",
+    "packageName": "string",
+    "ccDetails": {
+      "cardholderName": "string",
+      "cardNumber": "number",
+      "expirationMonth": "number",
+      "expirationYear": "number",
+      "billingAddress": {
+        "streetAddress": "string",
+        "city": "string",
+        "state": "string",
+        "country": "string"
+      },
+      "cvv": "number"
+    }
+  },
+  "otherDetails": {
+    "specialInstructions": "string",
+    "confirmationNumber": "string",
+    "promoName": "string",
+    "folioId": "string",
+    "agentName": "string",
+    "agentEmail": "string",
+    "agentPhone": "string"
+  }
+}

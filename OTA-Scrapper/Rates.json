@@ -1,0 +1,294 @@
+{
+  "otaId": 6,
+  "timestamp": "2025-03-29 11:11:08",
+  "rates": [
+    {
+      "roomID": "2512215",
+      "roomName": "Deluxe Non View Room",
+      "checkIn": "2025-03-29",
+      "checkOut": "2025-03-30",
+      "roomPlan": "CP",
+      "price": 3402.0
+    },
+    {
+      "roomID": "2512215",
+      "roomName": "Deluxe Non View Room",
+      "checkIn": "2025-03-29",
+      "checkOut": "2025-03-30",
+      "roomPlan": "MAP",
+      "price": 3402.0
+    },
+    {
+      "roomID": "2512219",
+      "roomName": "Executive  (With Balcony  Paid Parking)",
+      "checkIn": "2025-03-29",
+      "checkOut": "2025-03-30",
+      "roomPlan": "CP",
+      "price": 4007.0
+    },
+    {
+      "roomID": "2512219",
+      "roomName": "Executive  (With Balcony  Paid Parking)",
+      "checkIn": "2025-03-29",
+      "checkOut": "2025-03-30",
+      "roomPlan": "MAP",
+      "price": 4007.0
+    },
+    {
+      "roomID": "2512217",
+      "roomName": "Super Deluxe (With Balcony  Paid Parking)",
+      "checkIn": "2025-03-29",
+      "checkOut": "2025-03-30",
+      "roomPlan": "CP",
+      "price": 4612.0
+    },
+    {
+      "roomID": "2512217",
+      "roomName": "Super Deluxe (With Balcony  Paid Parking)",
+      "checkIn": "2025-03-29",
+      "checkOut": "2025-03-30",
+      "roomPlan": "MAP",
+      "price": 4612.0
+    },
+    {
+      "roomID": "2512220",
+      "roomName": "Deluxe Four Bedded (Non View  Paid Parking)",
+      "checkIn": "2025-03-29",
+      "checkOut": "2025-03-30",
+      "roomPlan": "CP",
+      "price": 5831.0
+    },
+    {
+      "roomID": "2512220",
+      "roomName": "Deluxe Four Bedded (Non View  Paid Parking)",
+      "checkIn": "2025-03-29",
+      "checkOut": "2025-03-30",
+      "roomPlan": "MAP",
+      "price": 5831.0
+    },
+    {
+      "roomID": "2512221",
+      "roomName": "Maharaja Suite - Maharaja Suite (With Balcony  Paid Parking)",
+      "checkIn": "2025-03-29",
+      "checkOut": "2025-03-30",
+      "roomPlan": "CP",
+      "price": 5831.0
+    },
+    {
+      "roomID": "2512221",
+      "roomName": "Maharaja Suite - Maharaja Suite (With Balcony  Paid Parking)",
+      "checkIn": "2025-03-29",
+      "checkOut": "2025-03-30",
+      "roomPlan": "MAP",
+      "price": 5831.0
+    },
+    {
+      "roomID": "2512218",
+      "roomName": "Economy Room on Minus 7th Floor ( Lift till 5th Floor  Non View  Paid Parking)",
+      "checkIn": "2025-03-30",
+      "checkOut": "2025-03-31",
+      "roomPlan": "CP",
+      "price": 2428.0
+    },
+    {
+      "roomID": "2512218",
+      "roomName": "Economy Room on Minus 7th Floor ( Lift till 5th Floor  Non View  Paid Parking)",
+      "checkIn": "2025-03-30",
+      "checkOut": "2025-03-31",
+      "roomPlan": "MAP",
+      "price": 2428.0
+    },
+    {
+      "roomID": "2512215",
+      "roomName": "Deluxe Non View Room",
+      "checkIn": "2025-03-30",
+      "checkOut": "2025-03-31",
+      "roomPlan": "CP",
+      "price": 3402.0
+    },
+    {
+      "roomID": "2512215",
+      "roomName": "Deluxe Non View Room",
+      "checkIn": "2025-03-30",
+      "checkOut": "2025-03-31",
+      "roomPlan": "MAP",
+      "price": 3402.0
+    },
+    {
+      "roomID": "2512213",
+      "roomName": "Deluxe Room with Balcony",
+      "checkIn": "2025-03-30",
+      "checkOut": "2025-03-31",
+      "roomPlan": "CP",
+      "price": 3402.0
+    },
+    {
+      "roomID": "2512213",
+      "roomName": "Deluxe Room with Balcony",
+      "checkIn": "2025-03-30",
+      "checkOut": "2025-03-31",
+      "roomPlan": "MAP",
+      "price": 3402.0
+    },
+    {
+      "roomID": "2512219",
+      "roomName": "Executive  (With Balcony  Paid Parking)",
+      "checkIn": "2025-03-30",
+      "checkOut": "2025-03-31",
+      "roomPlan": "CP",
+      "price": 4007.0
+    },
+    {
+      "roomID": "2512219",
+      "roomName": "Executive  (With Balcony  Paid Parking)",
+      "checkIn": "2025-03-30",
+      "checkOut": "2025-03-31",
+      "roomPlan": "MAP",
+      "price": 4007.0
+    },
+    {
+      "roomID": "2512220",
+      "roomName": "Deluxe Four Bedded (Non View  Paid Parking)",
+      "checkIn": "2025-03-30",
+      "checkOut": "2025-03-31",
+      "roomPlan": "CP",
+      "price": 5831.0
+    },
+    {
+      "roomID": "2512220",
+      "roomName": "Deluxe Four Bedded (Non View  Paid Parking)",
+      "checkIn": "2025-03-30",
+      "checkOut": "2025-03-31",
+      "roomPlan": "MAP",
+      "price": 5831.0
+    },
+    {
+      "roomID": "2512221",
+      "roomName": "Maharaja Suite - Maharaja Suite (With Balcony  Paid Parking)",
+      "checkIn": "2025-03-30",
+      "checkOut": "2025-03-31",
+      "roomPlan": "CP",
+      "price": 5831.0
+    },
+    {
+      "roomID": "2512221",
+      "roomName": "Maharaja Suite - Maharaja Suite (With Balcony  Paid Parking)",
+      "checkIn": "2025-03-30",
+      "checkOut": "2025-03-31",
+      "roomPlan": "MAP",
+      "price": 5831.0
+    },
+    {
+      "roomID": "2512218",
+      "roomName": "Economy Room on Minus 7th Floor ( Lift till 5th Floor  Non View  Paid Parking)",
+      "checkIn": "2025-03-31",
+      "checkOut": "2025-04-01",
+      "roomPlan": "CP",
+      "price": 2428.0
+    },
+    {
+      "roomID": "2512218",
+      "roomName": "Economy Room on Minus 7th Floor ( Lift till 5th Floor  Non View  Paid Parking)",
+      "checkIn": "2025-03-31",
+      "checkOut": "2025-04-01",
+      "roomPlan": "MAP",
+      "price": 2428.0
+    },
+    {
+      "roomID": "2512215",
+      "roomName": "Deluxe Non View Room",
+      "checkIn": "2025-03-31",
+      "checkOut": "2025-04-01",
+      "roomPlan": "CP",
+      "price": 3402.0
+    },
+    {
+      "roomID": "2512215",
+      "roomName": "Deluxe Non View Room",
+      "checkIn": "2025-03-31",
+      "checkOut": "2025-04-01",
+      "roomPlan": "MAP",
+      "price": 3402.0
+    },
+    {
+      "roomID": "2512213",
+      "roomName": "Deluxe Room with Balcony",
+      "checkIn": "2025-03-31",
+      "checkOut": "2025-04-01",
+      "roomPlan": "CP",
+      "price": 3402.0
+    },
+    {
+      "roomID": "2512213",
+      "roomName": "Deluxe Room with Balcony",
+      "checkIn": "2025-03-31",
+      "checkOut": "2025-04-01",
+      "roomPlan": "MAP",
+      "price": 3402.0
+    },
+    {
+      "roomID": "2512219",
+      "roomName": "Executive  (With Balcony  Paid Parking)",
+      "checkIn": "2025-03-31",
+      "checkOut": "2025-04-01",
+      "roomPlan": "CP",
+      "price": 4007.0
+    },
+    {
+      "roomID": "2512219",
+      "roomName": "Executive  (With Balcony  Paid Parking)",
+      "checkIn": "2025-03-31",
+      "checkOut": "2025-04-01",
+      "roomPlan": "MAP",
+      "price": 4007.0
+    },
+    {
+      "roomID": "2512217",
+      "roomName": "Super Deluxe (With Balcony  Paid Parking)",
+      "checkIn": "2025-03-31",
+      "checkOut": "2025-04-01",
+      "roomPlan": "CP",
+      "price": 4612.0
+    },
+    {
+      "roomID": "2512217",
+      "roomName": "Super Deluxe (With Balcony  Paid Parking)",
+      "checkIn": "2025-03-31",
+      "checkOut": "2025-04-01",
+      "roomPlan": "MAP",
+      "price": 4612.0
+    },
+    {
+      "roomID": "2512220",
+      "roomName": "Deluxe Four Bedded (Non View  Paid Parking)",
+      "checkIn": "2025-03-31",
+      "checkOut": "2025-04-01",
+      "roomPlan": "CP",
+      "price": 5831.0
+    },
+    {
+      "roomID": "2512220",
+      "roomName": "Deluxe Four Bedded (Non View  Paid Parking)",
+      "checkIn": "2025-03-31",
+      "checkOut": "2025-04-01",
+      "roomPlan": "MAP",
+      "price": 5831.0
+    },
+    {
+      "roomID": "2512221",
+      "roomName": "Maharaja Suite - Maharaja Suite (With Balcony  Paid Parking)",
+      "checkIn": "2025-03-31",
+      "checkOut": "2025-04-01",
+      "roomPlan": "CP",
+      "price": 5831.0
+    },
+    {
+      "roomID": "2512221",
+      "roomName": "Maharaja Suite - Maharaja Suite (With Balcony  Paid Parking)",
+      "checkIn": "2025-03-31",
+      "checkOut": "2025-04-01",
+      "roomPlan": "MAP",
+      "price": 5831.0
+    }
+  ]
+}

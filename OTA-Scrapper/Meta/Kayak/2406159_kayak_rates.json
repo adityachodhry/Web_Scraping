@@ -1,0 +1,1266 @@
+[
+  {
+    "checkin": "2024-02-29",
+    "checkout": "2024-03-01",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Double Room (Sanitized)",
+    "price": 2392,
+    "currency": "INR",
+    "freebies": [
+      "Free internet"
+    ]
+  },
+  {
+    "checkin": "2024-02-29",
+    "checkout": "2024-03-01",
+    "provider": "Agoda.com",
+    "room_type": "Triple Deluxe",
+    "price": 1831,
+    "currency": "INR",
+    "freebies": [
+      "Free internet"
+    ]
+  },
+  {
+    "checkin": "2024-02-29",
+    "checkout": "2024-03-01",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Triple Room (Sanitized)",
+    "price": 2733,
+    "currency": "INR",
+    "freebies": [
+      "Free internet"
+    ]
+  },
+  {
+    "checkin": "2024-02-29",
+    "checkout": "2024-03-01",
+    "provider": "Hotels.com",
+    "room_type": "Deluxe Triple Room",
+    "price": 2823,
+    "currency": "INR",
+    "freebies": [
+      "Free internet"
+    ]
+  },
+  {
+    "checkin": "2024-02-29",
+    "checkout": "2024-03-01",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Family Room (Sanitized)",
+    "price": 3075,
+    "currency": "INR",
+    "freebies": [
+      "Free internet"
+    ]
+  },
+  {
+    "checkin": "2024-02-29",
+    "checkout": "2024-03-01",
+    "provider": "Agoda.com",
+    "room_type": "Deluxe Room",
+    "price": 1602,
+    "currency": "INR",
+    "freebies": [
+      "Free internet"
+    ]
+  },
+  {
+    "checkin": "2024-02-29",
+    "checkout": "2024-03-01",
+    "provider": "Agoda.com",
+    "room_type": "Family Room",
+    "price": 2059,
+    "currency": "INR",
+    "freebies": [
+      "Free internet"
+    ]
+  },
+  {
+    "checkin": "2024-02-29",
+    "checkout": "2024-03-01",
+    "provider": "Travala",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 2460,
+    "currency": "INR",
+    "freebies": []
+  },
+  {
+    "checkin": "2024-02-29",
+    "checkout": "2024-03-01",
+    "provider": "Expedia",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 2470,
+    "currency": "INR",
+    "freebies": [
+      "Free internet"
+    ]
+  },
+  {
+    "checkin": "2024-02-29",
+    "checkout": "2024-03-01",
+    "provider": "Hotels.com",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 2470,
+    "currency": "INR",
+    "freebies": [
+      "Free internet"
+    ]
+  },
+  {
+    "checkin": "2024-02-29",
+    "checkout": "2024-03-01",
+    "provider": "Hotels.com",
+    "room_type": "Family Room, 2 Double Beds",
+    "price": 3176,
+    "currency": "INR",
+    "freebies": [
+      "Free internet"
+    ]
+  },
+  {
+    "checkin": "2024-03-01",
+    "checkout": "2024-03-02",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Double Room (Sanitized)",
+    "price": 2733,
+    "currency": "INR",
+    "freebies": [
+      "Free internet"
+    ]
+  },
+  {
+    "checkin": "2024-03-01",
+    "checkout": "2024-03-02",
+    "provider": "Agoda.com",
+    "room_type": "Triple Deluxe",
+    "price": 2059,
+    "currency": "INR",
+    "freebies": [
+      "Free internet"
+    ]
+  },
+  {
+    "checkin": "2024-03-01",
+    "checkout": "2024-03-02",
+    "provider": "Hotels.com",
+    "room_type": "Deluxe Triple Room",
+    "price": 2799,
+    "currency": "INR",
+    "freebies": [
+      "Free internet"
+    ]
+  },
+  {
+    "checkin": "2024-03-01",
+    "checkout": "2024-03-02",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Triple Room (Sanitized)",
+    "price": 3075,
+    "currency": "INR",
+    "freebies": [
+      "Free internet"
+    ]
+  },
+  {
+    "checkin": "2024-03-01",
+    "checkout": "2024-03-02",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Family Room (Sanitized)",
+    "price": 3416,
+    "currency": "INR",
+    "freebies": [
+      "Free internet"
+    ]
+  },
+  {
+    "checkin": "2024-03-01",
+    "checkout": "2024-03-02",
+    "provider": "Agoda.com",
+    "room_type": "Deluxe Room",
+    "price": 1831,
+    "currency": "INR",
+    "freebies": [
+      "Free internet"
+    ]
+  },
+  {
+    "checkin": "2024-03-01",
+    "checkout": "2024-03-02",
+    "provider": "Agoda.com",
+    "room_type": "Family Room",
+    "price": 2288,
+    "currency": "INR",
+    "freebies": [
+      "Free internet"
+    ]
+  },
+  {
+    "checkin": "2024-03-01",
+    "checkout": "2024-03-02",
+    "provider": "Expedia",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 2487,
+    "currency": "INR",
+    "freebies": [
+      "Free internet"
+    ]
+  },
+  {
+    "checkin": "2024-03-01",
+    "checkout": "2024-03-02",
+    "provider": "Hotels.com",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 2487,
+    "currency": "INR",
+    "freebies": [
+      "Free internet"
+    ]
+  },
+  {
+    "checkin": "2024-03-01",
+    "checkout": "2024-03-02",
+    "provider": "Travala",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 2732,
+    "currency": "INR",
+    "freebies": []
+  },
+  {
+    "checkin": "2024-03-01",
+    "checkout": "2024-03-02",
+    "provider": "Hotels.com",
+    "room_type": "Family Room, 2 Double Beds",
+    "price": 3110,
+    "currency": "INR",
+    "freebies": [
+      "Free internet"
+    ]
+  },
+  {
+    "checkin": "2024-03-02",
+    "checkout": "2024-03-03",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Double Room (Sanitized) - Free cancellation",
+    "price": 2050,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-02",
+    "checkout": "2024-03-03",
+    "provider": "Agoda.com",
+    "room_type": "Triple Deluxe",
+    "price": 1922,
+    "currency": "INR",
+    "freebies": [
+      "Free internet"
+    ]
+  },
+  {
+    "checkin": "2024-03-02",
+    "checkout": "2024-03-03",
+    "provider": "Hotels.com",
+    "room_type": "Deluxe Triple Room",
+    "price": 2742,
+    "currency": "INR",
+    "freebies": [
+      "Free internet"
+    ]
+  },
+  {
+    "checkin": "2024-03-02",
+    "checkout": "2024-03-03",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Triple Room (Sanitized) - Free cancellation",
+    "price": 2870,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-02",
+    "checkout": "2024-03-03",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Family Room (Sanitized) - Free cancellation",
+    "price": 3075,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-02",
+    "checkout": "2024-03-03",
+    "provider": "Agoda.com",
+    "room_type": "Deluxe Room",
+    "price": 1317,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-02",
+    "checkout": "2024-03-03",
+    "provider": "Expedia",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 1959,
+    "currency": "INR",
+    "freebies": [
+      "Free internet"
+    ]
+  },
+  {
+    "checkin": "2024-03-02",
+    "checkout": "2024-03-03",
+    "provider": "Hotels.com",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 1959,
+    "currency": "INR",
+    "freebies": [
+      "Free internet"
+    ]
+  },
+  {
+    "checkin": "2024-03-02",
+    "checkout": "2024-03-03",
+    "provider": "Agoda.com",
+    "room_type": "Family Room",
+    "price": 2059,
+    "currency": "INR",
+    "freebies": [
+      "Free internet"
+    ]
+  },
+  {
+    "checkin": "2024-03-02",
+    "checkout": "2024-03-03",
+    "provider": "Travala",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 2089,
+    "currency": "INR",
+    "freebies": []
+  },
+  {
+    "checkin": "2024-03-02",
+    "checkout": "2024-03-03",
+    "provider": "Hotels.com",
+    "room_type": "Family Room, 2 Double Beds",
+    "price": 2937,
+    "currency": "INR",
+    "freebies": [
+      "Free internet"
+    ]
+  },
+  {
+    "checkin": "2024-03-03",
+    "checkout": "2024-03-04",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Double Room (Sanitized) - Free cancellation",
+    "price": 2151,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-03",
+    "checkout": "2024-03-04",
+    "provider": "Agoda.com",
+    "room_type": "Triple Deluxe",
+    "price": 1843,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-03",
+    "checkout": "2024-03-04",
+    "provider": "Hotels.com",
+    "room_type": "Deluxe Triple Room",
+    "price": 2742,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-03",
+    "checkout": "2024-03-04",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Triple Room (Sanitized) - Free cancellation",
+    "price": 3011,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-03",
+    "checkout": "2024-03-04",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Family Room (Sanitized) - Free cancellation",
+    "price": 3226,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-03",
+    "checkout": "2024-03-04",
+    "provider": "Agoda.com",
+    "room_type": "Deluxe Room",
+    "price": 1317,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-03",
+    "checkout": "2024-03-04",
+    "provider": "Expedia",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 1959,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-03",
+    "checkout": "2024-03-04",
+    "provider": "Hotels.com",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 1959,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-03",
+    "checkout": "2024-03-04",
+    "provider": "Agoda.com",
+    "room_type": "Family Room",
+    "price": 1975,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-03",
+    "checkout": "2024-03-04",
+    "provider": "Travala",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 2089,
+    "currency": "INR",
+    "freebies": []
+  },
+  {
+    "checkin": "2024-03-03",
+    "checkout": "2024-03-04",
+    "provider": "Hotels.com",
+    "room_type": "Family Room, 2 Double Beds",
+    "price": 2937,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-04",
+    "checkout": "2024-03-05",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Double Room (Sanitized) - Free cancellation",
+    "price": 2151,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-04",
+    "checkout": "2024-03-05",
+    "provider": "Agoda.com",
+    "room_type": "Triple Deluxe",
+    "price": 1843,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-04",
+    "checkout": "2024-03-05",
+    "provider": "Hotels.com",
+    "room_type": "Deluxe Triple Room",
+    "price": 2612,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-04",
+    "checkout": "2024-03-05",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Triple Room (Sanitized) - Free cancellation",
+    "price": 3011,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-04",
+    "checkout": "2024-03-05",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Family Room (Sanitized) - Free cancellation",
+    "price": 3226,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-04",
+    "checkout": "2024-03-05",
+    "provider": "Agoda.com",
+    "room_type": "Deluxe Room",
+    "price": 1317,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-04",
+    "checkout": "2024-03-05",
+    "provider": "Expedia",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 1866,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-04",
+    "checkout": "2024-03-05",
+    "provider": "Hotels.com",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 1866,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-04",
+    "checkout": "2024-03-05",
+    "provider": "Agoda.com",
+    "room_type": "Family Room",
+    "price": 1975,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-04",
+    "checkout": "2024-03-05",
+    "provider": "Travala",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 2089,
+    "currency": "INR",
+    "freebies": []
+  },
+  {
+    "checkin": "2024-03-04",
+    "checkout": "2024-03-05",
+    "provider": "Hotels.com",
+    "room_type": "Family Room, 2 Double Beds",
+    "price": 2799,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-05",
+    "checkout": "2024-03-06",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Double Room (Sanitized) - Free cancellation",
+    "price": 2184,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-05",
+    "checkout": "2024-03-06",
+    "provider": "Agoda.com",
+    "room_type": "Triple Deluxe",
+    "price": 1843,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-05",
+    "checkout": "2024-03-06",
+    "provider": "Hotels.com",
+    "room_type": "Deluxe Triple Room",
+    "price": 2641,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-05",
+    "checkout": "2024-03-06",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Triple Room (Sanitized) - Free cancellation",
+    "price": 3058,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-05",
+    "checkout": "2024-03-06",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Family Room (Sanitized) - Free cancellation",
+    "price": 3276,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-05",
+    "checkout": "2024-03-06",
+    "provider": "Agoda.com",
+    "room_type": "Deluxe Room",
+    "price": 1317,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-05",
+    "checkout": "2024-03-06",
+    "provider": "Expedia",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 1887,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-05",
+    "checkout": "2024-03-06",
+    "provider": "Hotels.com",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 1887,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-05",
+    "checkout": "2024-03-06",
+    "provider": "Agoda.com",
+    "room_type": "Family Room",
+    "price": 1975,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-05",
+    "checkout": "2024-03-06",
+    "provider": "Travala",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 2089,
+    "currency": "INR",
+    "freebies": []
+  },
+  {
+    "checkin": "2024-03-05",
+    "checkout": "2024-03-06",
+    "provider": "Hotels.com",
+    "room_type": "Family Room, 2 Double Beds",
+    "price": 2829,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-06",
+    "checkout": "2024-03-07",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Double Room (Sanitized) - Free cancellation",
+    "price": 1983,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-06",
+    "checkout": "2024-03-07",
+    "provider": "Agoda.com",
+    "room_type": "Triple Deluxe",
+    "price": 1843,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-06",
+    "checkout": "2024-03-07",
+    "provider": "Hotels.com",
+    "room_type": "Deluxe Triple Room",
+    "price": 2612,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-06",
+    "checkout": "2024-03-07",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Triple Room (Sanitized) - Free cancellation",
+    "price": 2776,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-06",
+    "checkout": "2024-03-07",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Family Room (Sanitized) - Free cancellation",
+    "price": 2974,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-06",
+    "checkout": "2024-03-07",
+    "provider": "Agoda.com",
+    "room_type": "Deluxe Room",
+    "price": 1317,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-06",
+    "checkout": "2024-03-07",
+    "provider": "Expedia",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 1866,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-06",
+    "checkout": "2024-03-07",
+    "provider": "Hotels.com",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 1866,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-06",
+    "checkout": "2024-03-07",
+    "provider": "Agoda.com",
+    "room_type": "Family Room",
+    "price": 1975,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-06",
+    "checkout": "2024-03-07",
+    "provider": "Travala",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 2089,
+    "currency": "INR",
+    "freebies": []
+  },
+  {
+    "checkin": "2024-03-06",
+    "checkout": "2024-03-07",
+    "provider": "Hotels.com",
+    "room_type": "Family Room, 2 Double Beds",
+    "price": 2799,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-07",
+    "checkout": "2024-03-08",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Double Room (Sanitized) - Free cancellation",
+    "price": 1983,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-07",
+    "checkout": "2024-03-08",
+    "provider": "Agoda.com",
+    "room_type": "Triple Deluxe",
+    "price": 1843,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-07",
+    "checkout": "2024-03-08",
+    "provider": "Hotels.com",
+    "room_type": "Deluxe Triple Room",
+    "price": 2641,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-07",
+    "checkout": "2024-03-08",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Triple Room (Sanitized) - Free cancellation",
+    "price": 2776,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-07",
+    "checkout": "2024-03-08",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Family Room (Sanitized) - Free cancellation",
+    "price": 2974,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-07",
+    "checkout": "2024-03-08",
+    "provider": "Agoda.com",
+    "room_type": "Deluxe Room",
+    "price": 1317,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-07",
+    "checkout": "2024-03-08",
+    "provider": "Expedia",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 1887,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-07",
+    "checkout": "2024-03-08",
+    "provider": "Hotels.com",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 1887,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-07",
+    "checkout": "2024-03-08",
+    "provider": "Agoda.com",
+    "room_type": "Family Room",
+    "price": 1975,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-07",
+    "checkout": "2024-03-08",
+    "provider": "Travala",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 2089,
+    "currency": "INR",
+    "freebies": []
+  },
+  {
+    "checkin": "2024-03-07",
+    "checkout": "2024-03-08",
+    "provider": "Hotels.com",
+    "room_type": "Family Room, 2 Double Beds",
+    "price": 2829,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-08",
+    "checkout": "2024-03-09",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Double Room (Sanitized) - Free cancellation",
+    "price": 2115,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-08",
+    "checkout": "2024-03-09",
+    "provider": "Agoda.com",
+    "room_type": "Triple Deluxe",
+    "price": 2194,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-08",
+    "checkout": "2024-03-09",
+    "provider": "Hotels.com",
+    "room_type": "Deluxe Triple Room",
+    "price": 3110,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-08",
+    "checkout": "2024-03-09",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Triple Room (Sanitized) - Free cancellation",
+    "price": 3304,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-08",
+    "checkout": "2024-03-09",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Family Room (Sanitized) - Free cancellation",
+    "price": 3304,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-08",
+    "checkout": "2024-03-09",
+    "provider": "Agoda.com",
+    "room_type": "Deluxe Room",
+    "price": 1404,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-08",
+    "checkout": "2024-03-09",
+    "provider": "Expedia",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 1990,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-08",
+    "checkout": "2024-03-09",
+    "provider": "Hotels.com",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 1990,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-08",
+    "checkout": "2024-03-09",
+    "provider": "Travala",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 2182,
+    "currency": "INR",
+    "freebies": []
+  },
+  {
+    "checkin": "2024-03-08",
+    "checkout": "2024-03-09",
+    "provider": "Agoda.com",
+    "room_type": "Family Room",
+    "price": 2194,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-08",
+    "checkout": "2024-03-09",
+    "provider": "Hotels.com",
+    "room_type": "Family Room, 2 Double Beds",
+    "price": 3110,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-09",
+    "checkout": "2024-03-10",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Double Room (Sanitized) - Free cancellation",
+    "price": 2115,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-09",
+    "checkout": "2024-03-10",
+    "provider": "Agoda.com",
+    "room_type": "Triple Deluxe",
+    "price": 2194,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-09",
+    "checkout": "2024-03-10",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Triple Room (Sanitized) - Free cancellation",
+    "price": 3304,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-09",
+    "checkout": "2024-03-10",
+    "provider": "Hotels.com",
+    "room_type": "Deluxe Triple Room",
+    "price": 3416,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-09",
+    "checkout": "2024-03-10",
+    "provider": "Booking.com",
+    "room_type": "Deluxe Family Room (Sanitized) - Free cancellation",
+    "price": 3304,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-09",
+    "checkout": "2024-03-10",
+    "provider": "Agoda.com",
+    "room_type": "Deluxe Room",
+    "price": 1404,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-09",
+    "checkout": "2024-03-10",
+    "provider": "Travala",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 2182,
+    "currency": "INR",
+    "freebies": []
+  },
+  {
+    "checkin": "2024-03-09",
+    "checkout": "2024-03-10",
+    "provider": "Expedia",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 2187,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-09",
+    "checkout": "2024-03-10",
+    "provider": "Hotels.com",
+    "room_type": "Deluxe Double Room, 1 Double Bed",
+    "price": 2187,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-09",
+    "checkout": "2024-03-10",
+    "provider": "Agoda.com",
+    "room_type": "Family Room",
+    "price": 2194,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  },
+  {
+    "checkin": "2024-03-09",
+    "checkout": "2024-03-10",
+    "provider": "Hotels.com",
+    "room_type": "Family Room, 2 Double Beds",
+    "price": 3416,
+    "currency": "INR",
+    "freebies": [
+      "Free internet",
+      "Free cancellation"
+    ]
+  }
+]

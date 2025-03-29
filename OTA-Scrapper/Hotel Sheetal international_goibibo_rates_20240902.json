@@ -1,0 +1,1600 @@
+{
+    "hId": 2332122723124821504,
+    "otaId": 2,
+    "otaPId": "2332122723124821447",
+    "timestamp": "2024-09-02",
+    "rates": [
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-02",
+            "checkOut": "2024-09-03",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "EP",
+            "price": 1402
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-02",
+            "checkOut": "2024-09-03",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "CP",
+            "price": 1677
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-02",
+            "checkOut": "2024-09-03",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 1816
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-02",
+            "checkOut": "2024-09-03",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 2001
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-02",
+            "checkOut": "2024-09-03",
+            "roomName": "Elite Rooms",
+            "roomPlan": "EP",
+            "price": 2282
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-02",
+            "checkOut": "2024-09-03",
+            "roomName": "Elite Rooms",
+            "roomPlan": "CP",
+            "price": 2520
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-03",
+            "checkOut": "2024-09-04",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "EP",
+            "price": 1603
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-03",
+            "checkOut": "2024-09-04",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "CP",
+            "price": 1916
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-03",
+            "checkOut": "2024-09-04",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 2076
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-03",
+            "checkOut": "2024-09-04",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 2336
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-03",
+            "checkOut": "2024-09-04",
+            "roomName": "Elite Rooms",
+            "roomPlan": "EP",
+            "price": 2644
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-03",
+            "checkOut": "2024-09-04",
+            "roomName": "Elite Rooms",
+            "roomPlan": "CP",
+            "price": 2919
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-04",
+            "checkOut": "2024-09-05",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 2168
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-04",
+            "checkOut": "2024-09-05",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 2389
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-04",
+            "checkOut": "2024-09-05",
+            "roomName": "Elite Rooms",
+            "roomPlan": "EP",
+            "price": 2705
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-04",
+            "checkOut": "2024-09-05",
+            "roomName": "Elite Rooms",
+            "roomPlan": "CP",
+            "price": 2987
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-05",
+            "checkOut": "2024-09-06",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "EP",
+            "price": 1434
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-05",
+            "checkOut": "2024-09-06",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "CP",
+            "price": 1715
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-05",
+            "checkOut": "2024-09-06",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 1856
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-05",
+            "checkOut": "2024-09-06",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 2047
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-05",
+            "checkOut": "2024-09-06",
+            "roomName": "Elite Rooms",
+            "roomPlan": "EP",
+            "price": 2335
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-05",
+            "checkOut": "2024-09-06",
+            "roomName": "Elite Rooms",
+            "roomPlan": "CP",
+            "price": 2613
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-06",
+            "checkOut": "2024-09-07",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "EP",
+            "price": 1434
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-06",
+            "checkOut": "2024-09-07",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "CP",
+            "price": 1715
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-06",
+            "checkOut": "2024-09-07",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 1856
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-06",
+            "checkOut": "2024-09-07",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 2047
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-06",
+            "checkOut": "2024-09-07",
+            "roomName": "Elite Rooms",
+            "roomPlan": "EP",
+            "price": 2335
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-06",
+            "checkOut": "2024-09-07",
+            "roomName": "Elite Rooms",
+            "roomPlan": "CP",
+            "price": 2613
+        },
+        {
+            "roomID": "24457",
+            "checkIn": "2024-09-07",
+            "checkOut": "2024-09-08",
+            "roomName": "Executive Double Bed Room",
+            "roomPlan": "EP",
+            "price": 1405
+        },
+        {
+            "roomID": "24457",
+            "checkIn": "2024-09-07",
+            "checkOut": "2024-09-08",
+            "roomName": "Executive Double Bed Room",
+            "roomPlan": "CP",
+            "price": 1920
+        },
+        {
+            "roomID": "23591",
+            "checkIn": "2024-09-07",
+            "checkOut": "2024-09-08",
+            "roomName": "Deluxe Double Bed Room",
+            "roomPlan": "EP",
+            "price": 1591
+        },
+        {
+            "roomID": "23591",
+            "checkIn": "2024-09-07",
+            "checkOut": "2024-09-08",
+            "roomName": "Deluxe Double Bed Room",
+            "roomPlan": "CP",
+            "price": 2249
+        },
+        {
+            "roomID": "11218",
+            "checkIn": "2024-09-07",
+            "checkOut": "2024-09-08",
+            "roomName": "Elite Double Bed Room",
+            "roomPlan": "EP",
+            "price": 2666
+        },
+        {
+            "roomID": "11218",
+            "checkIn": "2024-09-07",
+            "checkOut": "2024-09-08",
+            "roomName": "Elite Double Bed Room",
+            "roomPlan": "CP",
+            "price": 2958
+        },
+        {
+            "roomID": "24457",
+            "checkIn": "2024-09-08",
+            "checkOut": "2024-09-09",
+            "roomName": "Executive Double Bed Room",
+            "roomPlan": "EP",
+            "price": 1405
+        },
+        {
+            "roomID": "24457",
+            "checkIn": "2024-09-08",
+            "checkOut": "2024-09-09",
+            "roomName": "Executive Double Bed Room",
+            "roomPlan": "CP",
+            "price": 1920
+        },
+        {
+            "roomID": "23591",
+            "checkIn": "2024-09-08",
+            "checkOut": "2024-09-09",
+            "roomName": "Deluxe Double Bed Room",
+            "roomPlan": "EP",
+            "price": 1591
+        },
+        {
+            "roomID": "23591",
+            "checkIn": "2024-09-08",
+            "checkOut": "2024-09-09",
+            "roomName": "Deluxe Double Bed Room",
+            "roomPlan": "CP",
+            "price": 2249
+        },
+        {
+            "roomID": "11218",
+            "checkIn": "2024-09-08",
+            "checkOut": "2024-09-09",
+            "roomName": "Elite Double Bed Room",
+            "roomPlan": "EP",
+            "price": 2666
+        },
+        {
+            "roomID": "11218",
+            "checkIn": "2024-09-08",
+            "checkOut": "2024-09-09",
+            "roomName": "Elite Double Bed Room",
+            "roomPlan": "CP",
+            "price": 2958
+        },
+        {
+            "roomID": "24457",
+            "checkIn": "2024-09-09",
+            "checkOut": "2024-09-10",
+            "roomName": "Executive Double Bed Room",
+            "roomPlan": "EP",
+            "price": 1405
+        },
+        {
+            "roomID": "24457",
+            "checkIn": "2024-09-09",
+            "checkOut": "2024-09-10",
+            "roomName": "Executive Double Bed Room",
+            "roomPlan": "CP",
+            "price": 1920
+        },
+        {
+            "roomID": "23591",
+            "checkIn": "2024-09-09",
+            "checkOut": "2024-09-10",
+            "roomName": "Deluxe Double Bed Room",
+            "roomPlan": "EP",
+            "price": 1591
+        },
+        {
+            "roomID": "23591",
+            "checkIn": "2024-09-09",
+            "checkOut": "2024-09-10",
+            "roomName": "Deluxe Double Bed Room",
+            "roomPlan": "CP",
+            "price": 2249
+        },
+        {
+            "roomID": "11218",
+            "checkIn": "2024-09-09",
+            "checkOut": "2024-09-10",
+            "roomName": "Elite Double Bed Room",
+            "roomPlan": "EP",
+            "price": 2666
+        },
+        {
+            "roomID": "11218",
+            "checkIn": "2024-09-09",
+            "checkOut": "2024-09-10",
+            "roomName": "Elite Double Bed Room",
+            "roomPlan": "CP",
+            "price": 2958
+        },
+        {
+            "roomID": "24457",
+            "checkIn": "2024-09-10",
+            "checkOut": "2024-09-11",
+            "roomName": "Executive Double Bed Room",
+            "roomPlan": "EP",
+            "price": 1405
+        },
+        {
+            "roomID": "24457",
+            "checkIn": "2024-09-10",
+            "checkOut": "2024-09-11",
+            "roomName": "Executive Double Bed Room",
+            "roomPlan": "CP",
+            "price": 1920
+        },
+        {
+            "roomID": "23591",
+            "checkIn": "2024-09-10",
+            "checkOut": "2024-09-11",
+            "roomName": "Deluxe Double Bed Room",
+            "roomPlan": "EP",
+            "price": 1591
+        },
+        {
+            "roomID": "23591",
+            "checkIn": "2024-09-10",
+            "checkOut": "2024-09-11",
+            "roomName": "Deluxe Double Bed Room",
+            "roomPlan": "CP",
+            "price": 2249
+        },
+        {
+            "roomID": "11218",
+            "checkIn": "2024-09-10",
+            "checkOut": "2024-09-11",
+            "roomName": "Elite Double Bed Room",
+            "roomPlan": "EP",
+            "price": 2666
+        },
+        {
+            "roomID": "11218",
+            "checkIn": "2024-09-10",
+            "checkOut": "2024-09-11",
+            "roomName": "Elite Double Bed Room",
+            "roomPlan": "CP",
+            "price": 2958
+        },
+        {
+            "roomID": "24457",
+            "checkIn": "2024-09-11",
+            "checkOut": "2024-09-12",
+            "roomName": "Executive Double Bed Room",
+            "roomPlan": "EP",
+            "price": 1405
+        },
+        {
+            "roomID": "24457",
+            "checkIn": "2024-09-11",
+            "checkOut": "2024-09-12",
+            "roomName": "Executive Double Bed Room",
+            "roomPlan": "CP",
+            "price": 1920
+        },
+        {
+            "roomID": "23591",
+            "checkIn": "2024-09-11",
+            "checkOut": "2024-09-12",
+            "roomName": "Deluxe Double Bed Room",
+            "roomPlan": "EP",
+            "price": 1591
+        },
+        {
+            "roomID": "23591",
+            "checkIn": "2024-09-11",
+            "checkOut": "2024-09-12",
+            "roomName": "Deluxe Double Bed Room",
+            "roomPlan": "CP",
+            "price": 2249
+        },
+        {
+            "roomID": "11218",
+            "checkIn": "2024-09-11",
+            "checkOut": "2024-09-12",
+            "roomName": "Elite Double Bed Room",
+            "roomPlan": "EP",
+            "price": 2666
+        },
+        {
+            "roomID": "11218",
+            "checkIn": "2024-09-11",
+            "checkOut": "2024-09-12",
+            "roomName": "Elite Double Bed Room",
+            "roomPlan": "CP",
+            "price": 2958
+        },
+        {
+            "roomID": "23591",
+            "checkIn": "2024-09-12",
+            "checkOut": "2024-09-13",
+            "roomName": "Deluxe Double Bed Room",
+            "roomPlan": "CP",
+            "price": 4410
+        },
+        {
+            "roomID": "11218",
+            "checkIn": "2024-09-12",
+            "checkOut": "2024-09-13",
+            "roomName": "Elite Double Bed Room",
+            "roomPlan": "CP",
+            "price": 4771
+        },
+        {
+            "roomID": "24457",
+            "checkIn": "2024-09-12",
+            "checkOut": "2024-09-13",
+            "roomName": "Executive Double Bed Room",
+            "roomPlan": "CP",
+            "price": 5494
+        },
+        {
+            "roomID": "24457",
+            "checkIn": "2024-09-13",
+            "checkOut": "2024-09-14",
+            "roomName": "Executive Double Bed Room",
+            "roomPlan": "EP",
+            "price": 1405
+        },
+        {
+            "roomID": "24457",
+            "checkIn": "2024-09-13",
+            "checkOut": "2024-09-14",
+            "roomName": "Executive Double Bed Room",
+            "roomPlan": "CP",
+            "price": 1920
+        },
+        {
+            "roomID": "23591",
+            "checkIn": "2024-09-13",
+            "checkOut": "2024-09-14",
+            "roomName": "Deluxe Double Bed Room",
+            "roomPlan": "EP",
+            "price": 1591
+        },
+        {
+            "roomID": "23591",
+            "checkIn": "2024-09-13",
+            "checkOut": "2024-09-14",
+            "roomName": "Deluxe Double Bed Room",
+            "roomPlan": "CP",
+            "price": 2249
+        },
+        {
+            "roomID": "11218",
+            "checkIn": "2024-09-13",
+            "checkOut": "2024-09-14",
+            "roomName": "Elite Double Bed Room",
+            "roomPlan": "EP",
+            "price": 2666
+        },
+        {
+            "roomID": "11218",
+            "checkIn": "2024-09-13",
+            "checkOut": "2024-09-14",
+            "roomName": "Elite Double Bed Room",
+            "roomPlan": "CP",
+            "price": 2958
+        },
+        {
+            "roomID": "24457",
+            "checkIn": "2024-09-14",
+            "checkOut": "2024-09-15",
+            "roomName": "Executive Double Bed Room",
+            "roomPlan": "EP",
+            "price": 1405
+        },
+        {
+            "roomID": "24457",
+            "checkIn": "2024-09-14",
+            "checkOut": "2024-09-15",
+            "roomName": "Executive Double Bed Room",
+            "roomPlan": "CP",
+            "price": 1920
+        },
+        {
+            "roomID": "23591",
+            "checkIn": "2024-09-14",
+            "checkOut": "2024-09-15",
+            "roomName": "Deluxe Double Bed Room",
+            "roomPlan": "EP",
+            "price": 1591
+        },
+        {
+            "roomID": "23591",
+            "checkIn": "2024-09-14",
+            "checkOut": "2024-09-15",
+            "roomName": "Deluxe Double Bed Room",
+            "roomPlan": "CP",
+            "price": 2249
+        },
+        {
+            "roomID": "11218",
+            "checkIn": "2024-09-14",
+            "checkOut": "2024-09-15",
+            "roomName": "Elite Double Bed Room",
+            "roomPlan": "EP",
+            "price": 2666
+        },
+        {
+            "roomID": "11218",
+            "checkIn": "2024-09-14",
+            "checkOut": "2024-09-15",
+            "roomName": "Elite Double Bed Room",
+            "roomPlan": "CP",
+            "price": 2958
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-15",
+            "checkOut": "2024-09-16",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "EP",
+            "price": 1386
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-15",
+            "checkOut": "2024-09-16",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "CP",
+            "price": 1609
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-15",
+            "checkOut": "2024-09-16",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 1795
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-15",
+            "checkOut": "2024-09-16",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 1979
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-15",
+            "checkOut": "2024-09-16",
+            "roomName": "Elite Rooms",
+            "roomPlan": "EP",
+            "price": 2256
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-15",
+            "checkOut": "2024-09-16",
+            "roomName": "Elite Rooms",
+            "roomPlan": "CP",
+            "price": 2491
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-16",
+            "checkOut": "2024-09-17",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "EP",
+            "price": 1585
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-16",
+            "checkOut": "2024-09-17",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "CP",
+            "price": 1894
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-16",
+            "checkOut": "2024-09-17",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 2051
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-16",
+            "checkOut": "2024-09-17",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 2310
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-16",
+            "checkOut": "2024-09-17",
+            "roomName": "Elite Rooms",
+            "roomPlan": "EP",
+            "price": 2614
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-16",
+            "checkOut": "2024-09-17",
+            "roomName": "Elite Rooms",
+            "roomPlan": "CP",
+            "price": 2887
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-17",
+            "checkOut": "2024-09-18",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "EP",
+            "price": 1585
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-17",
+            "checkOut": "2024-09-18",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "CP",
+            "price": 1894
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-17",
+            "checkOut": "2024-09-18",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 2051
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-17",
+            "checkOut": "2024-09-18",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 2310
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-17",
+            "checkOut": "2024-09-18",
+            "roomName": "Elite Rooms",
+            "roomPlan": "EP",
+            "price": 2614
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-17",
+            "checkOut": "2024-09-18",
+            "roomName": "Elite Rooms",
+            "roomPlan": "CP",
+            "price": 2887
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-18",
+            "checkOut": "2024-09-19",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "EP",
+            "price": 1585
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-18",
+            "checkOut": "2024-09-19",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "CP",
+            "price": 1894
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-18",
+            "checkOut": "2024-09-19",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 2051
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-18",
+            "checkOut": "2024-09-19",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 2310
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-18",
+            "checkOut": "2024-09-19",
+            "roomName": "Elite Rooms",
+            "roomPlan": "EP",
+            "price": 2614
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-18",
+            "checkOut": "2024-09-19",
+            "roomName": "Elite Rooms",
+            "roomPlan": "CP",
+            "price": 2887
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-19",
+            "checkOut": "2024-09-20",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "EP",
+            "price": 1585
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-19",
+            "checkOut": "2024-09-20",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "CP",
+            "price": 1894
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-19",
+            "checkOut": "2024-09-20",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 2051
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-19",
+            "checkOut": "2024-09-20",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 2310
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-19",
+            "checkOut": "2024-09-20",
+            "roomName": "Elite Rooms",
+            "roomPlan": "EP",
+            "price": 2614
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-19",
+            "checkOut": "2024-09-20",
+            "roomName": "Elite Rooms",
+            "roomPlan": "CP",
+            "price": 2887
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-20",
+            "checkOut": "2024-09-21",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "EP",
+            "price": 1585
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-20",
+            "checkOut": "2024-09-21",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "CP",
+            "price": 1894
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-20",
+            "checkOut": "2024-09-21",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 2051
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-20",
+            "checkOut": "2024-09-21",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 2310
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-20",
+            "checkOut": "2024-09-21",
+            "roomName": "Elite Rooms",
+            "roomPlan": "EP",
+            "price": 2614
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-20",
+            "checkOut": "2024-09-21",
+            "roomName": "Elite Rooms",
+            "roomPlan": "CP",
+            "price": 2887
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-21",
+            "checkOut": "2024-09-22",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "EP",
+            "price": 1386
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-21",
+            "checkOut": "2024-09-22",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "CP",
+            "price": 1609
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-21",
+            "checkOut": "2024-09-22",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 1795
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-21",
+            "checkOut": "2024-09-22",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 1979
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-21",
+            "checkOut": "2024-09-22",
+            "roomName": "Elite Rooms",
+            "roomPlan": "EP",
+            "price": 2256
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-21",
+            "checkOut": "2024-09-22",
+            "roomName": "Elite Rooms",
+            "roomPlan": "CP",
+            "price": 2491
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-22",
+            "checkOut": "2024-09-23",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "EP",
+            "price": 1585
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-22",
+            "checkOut": "2024-09-23",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "CP",
+            "price": 1894
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-22",
+            "checkOut": "2024-09-23",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 2051
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-22",
+            "checkOut": "2024-09-23",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 2310
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-22",
+            "checkOut": "2024-09-23",
+            "roomName": "Elite Rooms",
+            "roomPlan": "EP",
+            "price": 2614
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-22",
+            "checkOut": "2024-09-23",
+            "roomName": "Elite Rooms",
+            "roomPlan": "CP",
+            "price": 2887
+        },
+        {
+            "roomID": "24457",
+            "checkIn": "2024-09-23",
+            "checkOut": "2024-09-24",
+            "roomName": "Executive Double Bed Room",
+            "roomPlan": "CP",
+            "price": 2282
+        },
+        {
+            "roomID": "23591",
+            "checkIn": "2024-09-23",
+            "checkOut": "2024-09-24",
+            "roomName": "Deluxe Double Bed Room",
+            "roomPlan": "CP",
+            "price": 2678
+        },
+        {
+            "roomID": "11218",
+            "checkIn": "2024-09-23",
+            "checkOut": "2024-09-24",
+            "roomName": "Elite Double Bed Room",
+            "roomPlan": "CP",
+            "price": 3454
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-24",
+            "checkOut": "2024-09-25",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "EP",
+            "price": 1585
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-24",
+            "checkOut": "2024-09-25",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "CP",
+            "price": 1894
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-24",
+            "checkOut": "2024-09-25",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 2051
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-24",
+            "checkOut": "2024-09-25",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 2310
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-24",
+            "checkOut": "2024-09-25",
+            "roomName": "Elite Rooms",
+            "roomPlan": "EP",
+            "price": 2614
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-24",
+            "checkOut": "2024-09-25",
+            "roomName": "Elite Rooms",
+            "roomPlan": "CP",
+            "price": 2887
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-25",
+            "checkOut": "2024-09-26",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "EP",
+            "price": 1607
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-25",
+            "checkOut": "2024-09-26",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "CP",
+            "price": 1920
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-25",
+            "checkOut": "2024-09-26",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 2080
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-25",
+            "checkOut": "2024-09-26",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 2342
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-25",
+            "checkOut": "2024-09-26",
+            "roomName": "Elite Rooms",
+            "roomPlan": "EP",
+            "price": 2649
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-25",
+            "checkOut": "2024-09-26",
+            "roomName": "Elite Rooms",
+            "roomPlan": "CP",
+            "price": 2926
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-26",
+            "checkOut": "2024-09-27",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "EP",
+            "price": 1585
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-26",
+            "checkOut": "2024-09-27",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "CP",
+            "price": 1894
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-26",
+            "checkOut": "2024-09-27",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 2051
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-26",
+            "checkOut": "2024-09-27",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 2310
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-26",
+            "checkOut": "2024-09-27",
+            "roomName": "Elite Rooms",
+            "roomPlan": "EP",
+            "price": 2614
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-26",
+            "checkOut": "2024-09-27",
+            "roomName": "Elite Rooms",
+            "roomPlan": "CP",
+            "price": 2887
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-27",
+            "checkOut": "2024-09-28",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "EP",
+            "price": 1386
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-27",
+            "checkOut": "2024-09-28",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "CP",
+            "price": 1609
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-27",
+            "checkOut": "2024-09-28",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 1795
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-27",
+            "checkOut": "2024-09-28",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 1979
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-27",
+            "checkOut": "2024-09-28",
+            "roomName": "Elite Rooms",
+            "roomPlan": "EP",
+            "price": 2256
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-27",
+            "checkOut": "2024-09-28",
+            "roomName": "Elite Rooms",
+            "roomPlan": "CP",
+            "price": 2491
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-28",
+            "checkOut": "2024-09-29",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "EP",
+            "price": 1728
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-28",
+            "checkOut": "2024-09-29",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "CP",
+            "price": 2249
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-28",
+            "checkOut": "2024-09-29",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 2010
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-28",
+            "checkOut": "2024-09-29",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 2538
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-28",
+            "checkOut": "2024-09-29",
+            "roomName": "Elite Rooms",
+            "roomPlan": "EP",
+            "price": 2958
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-28",
+            "checkOut": "2024-09-29",
+            "roomName": "Elite Rooms",
+            "roomPlan": "CP",
+            "price": 3294
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-29",
+            "checkOut": "2024-09-30",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "EP",
+            "price": 1585
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-29",
+            "checkOut": "2024-09-30",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "CP",
+            "price": 1894
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-29",
+            "checkOut": "2024-09-30",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 2051
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-29",
+            "checkOut": "2024-09-30",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 2310
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-29",
+            "checkOut": "2024-09-30",
+            "roomName": "Elite Rooms",
+            "roomPlan": "EP",
+            "price": 2614
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-29",
+            "checkOut": "2024-09-30",
+            "roomName": "Elite Rooms",
+            "roomPlan": "CP",
+            "price": 2887
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-30",
+            "checkOut": "2024-10-01",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "EP",
+            "price": 1585
+        },
+        {
+            "roomID": "216220",
+            "checkIn": "2024-09-30",
+            "checkOut": "2024-10-01",
+            "roomName": "Deluxe Twin Rooms",
+            "roomPlan": "CP",
+            "price": 1894
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-30",
+            "checkOut": "2024-10-01",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 2051
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-09-30",
+            "checkOut": "2024-10-01",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 2310
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-30",
+            "checkOut": "2024-10-01",
+            "roomName": "Elite Rooms",
+            "roomPlan": "EP",
+            "price": 2614
+        },
+        {
+            "roomID": "20408",
+            "checkIn": "2024-09-30",
+            "checkOut": "2024-10-01",
+            "roomName": "Elite Rooms",
+            "roomPlan": "CP",
+            "price": 2887
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-01",
+            "checkOut": "2024-10-02",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 3860
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-01",
+            "checkOut": "2024-10-02",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 4085
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-02",
+            "checkOut": "2024-10-03",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 3335
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-02",
+            "checkOut": "2024-10-03",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 3576
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-03",
+            "checkOut": "2024-10-04",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 3860
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-03",
+            "checkOut": "2024-10-04",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 4085
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-04",
+            "checkOut": "2024-10-05",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 3860
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-04",
+            "checkOut": "2024-10-05",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 4085
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-05",
+            "checkOut": "2024-10-06",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 3860
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-05",
+            "checkOut": "2024-10-06",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 4085
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-06",
+            "checkOut": "2024-10-07",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 3860
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-06",
+            "checkOut": "2024-10-07",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 4085
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-07",
+            "checkOut": "2024-10-08",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 3860
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-07",
+            "checkOut": "2024-10-08",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 4085
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-08",
+            "checkOut": "2024-10-09",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 3335
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-08",
+            "checkOut": "2024-10-09",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 3576
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-09",
+            "checkOut": "2024-10-10",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 3335
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-09",
+            "checkOut": "2024-10-10",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 3576
+        },
+        {
+            "roomID": "23591",
+            "checkIn": "2024-10-10",
+            "checkOut": "2024-10-11",
+            "roomName": "Deluxe Double Bed Room",
+            "roomPlan": "CP",
+            "price": 4354
+        },
+        {
+            "roomID": "11218",
+            "checkIn": "2024-10-10",
+            "checkOut": "2024-10-11",
+            "roomName": "Elite Double Bed Room",
+            "roomPlan": "CP",
+            "price": 4710
+        },
+        {
+            "roomID": "24457",
+            "checkIn": "2024-10-10",
+            "checkOut": "2024-10-11",
+            "roomName": "Executive Double Bed Room",
+            "roomPlan": "CP",
+            "price": 5424
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-11",
+            "checkOut": "2024-10-12",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 3809
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-11",
+            "checkOut": "2024-10-12",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 4031
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-12",
+            "checkOut": "2024-10-13",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 3809
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-12",
+            "checkOut": "2024-10-13",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 4031
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-13",
+            "checkOut": "2024-10-14",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 3860
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-13",
+            "checkOut": "2024-10-14",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 4085
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-14",
+            "checkOut": "2024-10-15",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 3860
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-14",
+            "checkOut": "2024-10-15",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 4085
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-15",
+            "checkOut": "2024-10-16",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 3860
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-15",
+            "checkOut": "2024-10-16",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 4085
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-16",
+            "checkOut": "2024-10-17",
+            "roomName": "Deluxe Room",
+            "roomPlan": "EP",
+            "price": 3860
+        },
+        {
+            "roomID": "2249",
+            "checkIn": "2024-10-16",
+            "checkOut": "2024-10-17",
+            "roomName": "Deluxe Room",
+            "roomPlan": "CP",
+            "price": 4085
+        }
+    ]
+}

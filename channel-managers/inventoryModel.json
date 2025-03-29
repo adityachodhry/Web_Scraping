@@ -1,0 +1,54 @@
+{
+    "hotelCode": "String",
+    "timestamp": "timestamp",
+    "inventory": [
+        {
+            "roomId": "String",
+            "roomName": "String",
+            "inventory": [
+                {
+                    "arrivalDate": "date",
+                    "totalRooms": "number",
+                    "availableRooms": "number",
+                    "rate": "number"
+                },
+                {
+                    "arrivalDate": "date",
+                    "totalRooms": "number",
+                    "availableRooms": "number",
+                    "rate": "number"
+                },
+                {
+                    "arrivalDate": "date",
+                    "totalRooms": "number",
+                    "availableRooms": "number",
+                    "rate": "number"
+                }
+            ]
+        },
+        {
+            "roomId": "String",
+            "roomName": "String",
+            "inventory": [
+                {
+                    "arrivalDate": "date",
+                    "totalRooms": "number",
+                    "availableRooms": "number",
+                    "rate": "number"
+                },
+                {
+                    "arrivalDate": "date",
+                    "totalRooms": "number",
+                    "availableRooms": "number",
+                    "rate": "number"
+                },
+                {
+                    "arrivalDate": "date",
+                    "totalRooms": "number",
+                    "availableRooms": "number",
+                    "rate": "number"
+                }
+            ]
+        }
+    ]
+}

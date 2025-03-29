@@ -1,0 +1,1201 @@
+{
+    "data": {
+        "prop_info": {},
+        "error_message": "",
+        "correlation_id": "",
+        "cp2": [
+            {
+                "ic": "tFreeBrkFast",
+                "pt": "Free BreakFast Available",
+                "ccd": {
+                    "tc": "#2bac36",
+                    "bgc": "#ffffff"
+                }
+            }
+        ],
+        "cp3": [
+            {
+                "ic": "tClock",
+                "pt": "Early Bird Deal",
+                "ccd": {
+                    "tc": "#E47544",
+                    "bgc": "#F7E5DC",
+                    "bdc": "#F7E5DC",
+                    "gs": "#FFF7F5",
+                    "ge": "#FFFFFF"
+                },
+                "iu": "https://gos3.ibcdn.com/Early_Bird_Deal_Icon-1677737323.png",
+                "tp": 16,
+                "ip": true
+            },
+            {
+                "pt": "Ends in",
+                "ccd": {
+                    "tc": "#E47544",
+                    "bdc": "#F7E5DC"
+                },
+                "tp": 16,
+                "ip": true
+            },
+            {
+                "pt": "3416137447",
+                "ccd": {
+                    "tc": "#E47544",
+                    "bdc": "#F7E5DC"
+                },
+                "tp": 16,
+                "ip": true
+            }
+        ],
+        "reg": [
+            {
+                "gs": "for 2 Guests",
+                "rtc": "216220",
+                "rtn": "Deluxe Twin Rooms",
+                "arc": 0,
+                "rpl": [
+                    {
+                        "rwt": "",
+                        "gsv": "INGO",
+                        "gseg": "1120",
+                        "hmd": "7963ce4b-bb90-4593-519a-e0cc3a42746d",
+                        "cnt": 1,
+                        "adp": 0,
+                        "dtc": 0,
+                        "ti": 0,
+                        "use": 1,
+                        "fcp": {
+                            "t": "Free Cancellation till 9 May'25",
+                            "at": "Book now, cancel any time till 9 May'25, get full refund!",
+                            "fct": "fc"
+                        },
+                        "dip": [
+                            {
+                                "pt": "30%",
+                                "ccd": {
+                                    "tc": "#ffffff",
+                                    "bgc": "#e63148"
+                                },
+                                "tp": 3
+                            }
+                        ],
+                        "otp": [
+                            {
+                                "ic": "tThunder",
+                                "pt": "2 offers applied",
+                                "ccd": {
+                                    "tc": "#18a160",
+                                    "bgc": "#e9f6ea"
+                                },
+                                "tp": 7
+                            }
+                        ],
+                        "rip": null,
+                        "pd": {
+                            "cbm": "",
+                            "ga": "",
+                            "ofs": "2 offers applied",
+                            "bofs": "",
+                            "pax": "1-2_0",
+                            "pph": "6599##5807####1190######1061##5678##getsetgo##365##0##0####4645##13##Config:23291:2025-03-17T14:21:58,PS_Config:369:2025-03-17T14:21:22##0##0##5162471644##580##464##69##0####0##0##1-2_0##0##791##1##540##650##0##1120##discount|1120##0##1161####4617",
+                            "emi": "1892",
+                            "emid": {
+                                "bas": 4617,
+                                "tax": 1061,
+                                "fin": 5678,
+                                "e3": 1892,
+                                "e6": 946,
+                                "e9": 630
+                            },
+                            "opr": 6599,
+                            "spr": 4617,
+                            "dspr": 0,
+                            "tp": 4617,
+                            "rra": 0,
+                            "tnc": 1061,
+                            "do": 1,
+                            "pi": {
+                                "a": 2,
+                                "c": 0,
+                                "i": 0
+                            },
+                            "pDesc": {
+                                "pfx": {
+                                    "t": "1 room",
+                                    "b": 1
+                                },
+                                "sfx": {
+                                    "t": "per night",
+                                    "b": 0
+                                }
+                            },
+                            "abd": "W3siY29kZSI6IkdFVFNFVEdPIiwibXNnIjoiVXNlIEdFVFNFVEdPIHRvIGdldCBpbnN0YW50IGRpc2NvdW50IG9uIHRoaXMgaG90ZWwgYm9va2luZy4iLCJobCI6MCwibGlua191cmwiOiJodHRwczovL3d3dy5nb2liaWJvLmNvbS9vZmZlcnMvaG90ZWwtb2ZmZXJzLyIsImxpbmtfdGV4dCI6IlZpZXcgTW9yZSIsImZwIjo2MzMwLCJmcF93Z2MiOjYzMzAsInRkIjoxMTkwLCJsb2dvIjoiIiwic2JjIjoiIzAwMDAwMCIsImRwdCI6IkdldCBcdTAwM2NiXHUwMDNl4oK5MTE5MFx1MDAzYy9iXHUwMDNlIG9mZiB3aXRoICBjYXJkcyIsImRwdGEiOiJZb3Ugc2F2ZWQgXHUwMDNjYlx1MDAzZeKCuTExOTBcdTAwM2MvYlx1MDAzZSIsImlhIjp0cnVlLCJpYnAiOmZhbHNlfSx7ImNvZGUiOiJHT0FYSVNGRVNUIiwibXNnIjoiR2V0IGEgZmxhdCAxNSUgb2ZmIGFuZCBlbmpveSBkaXNjb3VudHMgb2YgdXAgdG8gUnMuIDUsMDAwIG9uIHlvdXIgQXhpcyBCYW5rIGNyZWRpdCBjYXJkcy4iLCJobCI6MCwibGlua191cmwiOiJodHRwczovL3d3dy5nb2liaWJvLmNvbS9vZmZlcnMvaG90ZWwtb2ZmZXJzLyIsImxpbmtfdGV4dCI6IlZpZXcgTW9yZSIsImZwIjo2MjYxLCJmcF93Z2MiOjYyNjEsInRkIjoxMjU5LCJsb2dvIjoiIiwic2JjIjoiIzAwMDAwMCIsImRwdCI6IkdldCBcdTAwM2NiXHUwMDNl4oK5MTI1OVx1MDAzYy9iXHUwMDNlIG9mZiB3aXRoICBjYXJkcyIsImRwdGEiOiJZb3Ugc2F2ZWQgXHUwMDNjYlx1MDAzZeKCuTEyNTlcdTAwM2MvYlx1MDAzZSIsImlhIjpmYWxzZSwiaWJwIjpmYWxzZX0seyJjb2RlIjoiR09ZRVMiLCJtc2ciOiJQYXkgdXNpbmcgWUVTIEJhbmsgQ3JlZGl0IENhcmRzIHRvIGF2YWlsIHRoZSBvZmZlci4iLCJobCI6MCwibGlua191cmwiOiJodHRwczovL3d3dy5nb2liaWJvLmNvbS9vZmZlcnMvaG90ZWwtb2ZmZXJzLyIsImxpbmtfdGV4dCI6IlZpZXcgTW9yZSIsImZwIjo2MTc0LCJmcF93Z2MiOjYxNzQsInRkIjoxMzQ2LCJsb2dvIjoiIiwic2JjIjoiIzAwMDAwMCIsImRwdCI6IkdldCBcdTAwM2NiXHUwMDNl4oK5MTM0Nlx1MDAzYy9iXHUwMDNlIG9mZiB3aXRoICBjYXJkcyIsImRwdGEiOiJZb3Ugc2F2ZWQgXHUwMDNjYlx1MDAzZeKCuTEzNDZcdTAwM2MvYlx1MDAzZSIsImlhIjpmYWxzZSwiaWJwIjpmYWxzZX1d",
+                            "ebd": 791.87988,
+                            "ed": "3416137447"
+                        },
+                        "ai": {
+                            "t": "Incl. Taxes & Fees",
+                            "opr": 7660,
+                            "spr": 5678
+                        },
+                        "ets": "Taxes & Fees",
+                        "aip": null,
+                        "gtv": "ing",
+                        "rpac": 4,
+                        "rpt": "Rooms only | Free Cancellation",
+                        "ebc": 0,
+                        "pm": 1,
+                        "srty": 0,
+                        "aif": false,
+                        "sld": "",
+                        "sb": 0,
+                        "cltxt": "Free Cancellation till 9 May'25",
+                        "cltxtc": "#00B318",
+                        "isfc": true,
+                        "is_cp": true,
+                        "cp": [
+                            "Free Cancellation (100% refund) if you cancel this booking before 2025-05-09 11:59:59 (destination time).",
+                            "Cancellations post that will be subject to a hotel fee as follows:From 2025-05-09 12:00:00 (destination time) till 2025-05-10 11:59:59 (destination time) - 100% of booking amount.After 2025-05-10 12:00:00 (destination time) - 100% of booking amount.Cancellations are only allowed before CheckIn."
+                        ],
+                        "cft": {
+                            "pop_up": {
+                                "tag": {
+                                    "IconTagName": "",
+                                    "text": "Free Cancellation",
+                                    "imageUrl": "",
+                                    "bgColour": "#00a2ad",
+                                    "textColour": "#ffffff",
+                                    "persuasionId": "",
+                                    "borderColour": ""
+                                },
+                                "timeline": [
+                                    {
+                                        "time_frames": [
+                                            {
+                                                "circle_colour": "#00a2ad",
+                                                "title": {
+                                                    "IconTagName": "",
+                                                    "text": "Book Today",
+                                                    "imageUrl": "",
+                                                    "bgColour": "",
+                                                    "textColour": "#141823",
+                                                    "persuasionId": "",
+                                                    "borderColour": ""
+                                                },
+                                                "sub_title": {
+                                                    "IconTagName": "",
+                                                    "text": "Pay Now",
+                                                    "imageUrl": "",
+                                                    "bgColour": "",
+                                                    "textColour": "#647a97",
+                                                    "persuasionId": "",
+                                                    "borderColour": ""
+                                                },
+                                                "timeline_intercept": {}
+                                            },
+                                            {
+                                                "circle_colour": "#00a2ad",
+                                                "title": {
+                                                    "IconTagName": "",
+                                                    "text": "until 9 May'25",
+                                                    "imageUrl": "",
+                                                    "bgColour": "",
+                                                    "textColour": "#141823",
+                                                    "persuasionId": "",
+                                                    "borderColour": ""
+                                                },
+                                                "sub_title": {
+                                                    "IconTagName": "",
+                                                    "text": "Cancel for free before 11:59 AM",
+                                                    "imageUrl": "",
+                                                    "bgColour": "",
+                                                    "textColour": "#00a2ad",
+                                                    "persuasionId": "",
+                                                    "borderColour": ""
+                                                },
+                                                "timeline_intercept": {},
+                                                "line_colour": "#00a2ad"
+                                            },
+                                            {
+                                                "circle_colour": "#ffe5e9",
+                                                "title": {
+                                                    "IconTagName": "",
+                                                    "text": "10 May'25",
+                                                    "imageUrl": "",
+                                                    "bgColour": "",
+                                                    "textColour": "#141823",
+                                                    "persuasionId": "",
+                                                    "borderColour": ""
+                                                },
+                                                "sub_title": {
+                                                    "IconTagName": "",
+                                                    "text": "Check-in",
+                                                    "imageUrl": "",
+                                                    "bgColour": "",
+                                                    "textColour": "#647a97",
+                                                    "persuasionId": "",
+                                                    "borderColour": ""
+                                                },
+                                                "timeline_intercept": {
+                                                    "text": "No Refund",
+                                                    "textColour": "#f98293",
+                                                    "borderColor": "#ffd5db",
+                                                    "templateType": 1
+                                                },
+                                                "line_colour": "#ffe5e9"
+                                            }
+                                        ],
+                                        "background_color": "#e1f6f6"
+                                    }
+                                ]
+                            }
+                        },
+                        "cst": "Free Cancellation on this booking if cancelled before till 9 May'25 11:59 AM",
+                        "cot": "b2c",
+                        "cur": "INR",
+                        "grpc": "1001990000468532:MSE:1120:MSE:INGO",
+                        "mpc": "EP",
+                        "mpd": "",
+                        "offercode": "5144702294,",
+                        "pc": "getsetgo",
+                        "rpc": "990000468532:MSE:1120:MSE:INGO",
+                        "rtn": "Deluxe Twin Rooms",
+                        "ibp": "v15",
+                        "pa": 1,
+                        "fwdp": {
+                            "srctx": "",
+                            "prgen": "0",
+                            "ps": "6599|5807|696",
+                            "ts": "2025-03-27T11:04:22",
+                            "sv": "INGO",
+                            "hctxty": "",
+                            "xst": "false",
+                            "sc": "22136f72672362326323623263236e696c23623263",
+                            "hctx": ""
+                        },
+                        "rtc": "216220",
+                        "sc": "1120",
+                        "lib": false,
+                        "ccr": 1
+                    },
+                    {
+                        "rwt": "",
+                        "gsv": "INGO",
+                        "gseg": "1120",
+                        "hmd": "a78f2baf-a8b9-46e3-6533-4c28d536abf3",
+                        "cnt": 1,
+                        "adp": 0,
+                        "dtc": 0,
+                        "ti": 0,
+                        "use": 1,
+                        "fcp": {
+                            "t": "Free Cancellation till 9 May'25",
+                            "at": "Book now, cancel any time till 9 May'25, get full refund!",
+                            "fct": "fc"
+                        },
+                        "dip": [
+                            {
+                                "pt": "30%",
+                                "ccd": {
+                                    "tc": "#ffffff",
+                                    "bgc": "#e63148"
+                                },
+                                "tp": 3
+                            }
+                        ],
+                        "otp": [
+                            {
+                                "ic": "tThunder",
+                                "pt": "2 offers applied",
+                                "ccd": {
+                                    "tc": "#18a160",
+                                    "bgc": "#e9f6ea"
+                                },
+                                "tp": 7
+                            }
+                        ],
+                        "rip": null,
+                        "pd": {
+                            "cbm": "",
+                            "ga": "",
+                            "ofs": "2 offers applied",
+                            "bofs": "",
+                            "pax": "1-2_0",
+                            "pph": "7299##6423####1316######1174##6281##getsetgo##404##0##0####5138##13##Config:23291:2025-03-17T14:21:58,PS_Config:369:2025-03-17T14:21:22##0##0##5162471644##642##513##77##0####0##0##1-2_0##0##875##1##597##719##0##1120##discount|1120##0##1284####5107",
+                            "emi": "2093",
+                            "emid": {
+                                "bas": 5107,
+                                "tax": 1174,
+                                "fin": 6281,
+                                "e3": 2093,
+                                "e6": 1046,
+                                "e9": 697
+                            },
+                            "opr": 7299,
+                            "spr": 5107,
+                            "dspr": 0,
+                            "tp": 5107,
+                            "rra": 0,
+                            "tnc": 1174,
+                            "do": 1,
+                            "pi": {
+                                "a": 2,
+                                "c": 0,
+                                "i": 0
+                            },
+                            "pDesc": {
+                                "pfx": {
+                                    "t": "1 room",
+                                    "b": 1
+                                },
+                                "sfx": {
+                                    "t": "per night",
+                                    "b": 0
+                                }
+                            },
+                            "abd": "W3siY29kZSI6IkdFVFNFVEdPIiwibXNnIjoiVXNlIEdFVFNFVEdPIHRvIGdldCBpbnN0YW50IGRpc2NvdW50IG9uIHRoaXMgaG90ZWwgYm9va2luZy4iLCJobCI6MCwibGlua191cmwiOiJodHRwczovL3d3dy5nb2liaWJvLmNvbS9vZmZlcnMvaG90ZWwtb2ZmZXJzLyIsImxpbmtfdGV4dCI6IlZpZXcgTW9yZSIsImZwIjo3MDAyLCJmcF93Z2MiOjcwMDIsInRkIjoxMzE2LCJsb2dvIjoiIiwic2JjIjoiIzAwMDAwMCIsImRwdCI6IkdldCBcdTAwM2NiXHUwMDNl4oK5MTMxNlx1MDAzYy9iXHUwMDNlIG9mZiB3aXRoICBjYXJkcyIsImRwdGEiOiJZb3Ugc2F2ZWQgXHUwMDNjYlx1MDAzZeKCuTEzMTZcdTAwM2MvYlx1MDAzZSIsImlhIjp0cnVlLCJpYnAiOmZhbHNlfSx7ImNvZGUiOiJHT0FYSVNGRVNUIiwibXNnIjoiR2V0IGEgZmxhdCAxNSUgb2ZmIGFuZCBlbmpveSBkaXNjb3VudHMgb2YgdXAgdG8gUnMuIDUsMDAwIG9uIHlvdXIgQXhpcyBCYW5rIGNyZWRpdCBjYXJkcy4iLCJobCI6MCwibGlua191cmwiOiJodHRwczovL3d3dy5nb2liaWJvLmNvbS9vZmZlcnMvaG90ZWwtb2ZmZXJzLyIsImxpbmtfdGV4dCI6IlZpZXcgTW9yZSIsImZwIjo2OTI1LCJmcF93Z2MiOjY5MjUsInRkIjoxMzkzLCJsb2dvIjoiIiwic2JjIjoiIzAwMDAwMCIsImRwdCI6IkdldCBcdTAwM2NiXHUwMDNl4oK5MTM5M1x1MDAzYy9iXHUwMDNlIG9mZiB3aXRoICBjYXJkcyIsImRwdGEiOiJZb3Ugc2F2ZWQgXHUwMDNjYlx1MDAzZeKCuTEzOTNcdTAwM2MvYlx1MDAzZSIsImlhIjpmYWxzZSwiaWJwIjpmYWxzZX0seyJjb2RlIjoiR09ZRVMiLCJtc2ciOiJQYXkgdXNpbmcgWUVTIEJhbmsgQ3JlZGl0IENhcmRzIHRvIGF2YWlsIHRoZSBvZmZlci4iLCJobCI6MCwibGlua191cmwiOiJodHRwczovL3d3dy5nb2liaWJvLmNvbS9vZmZlcnMvaG90ZWwtb2ZmZXJzLyIsImxpbmtfdGV4dCI6IlZpZXcgTW9yZSIsImZwIjo2ODI5LCJmcF93Z2MiOjY4MjksInRkIjoxNDg5LCJsb2dvIjoiIiwic2JjIjoiIzAwMDAwMCIsImRwdCI6IkdldCBcdTAwM2NiXHUwMDNl4oK5MTQ4OVx1MDAzYy9iXHUwMDNlIG9mZiB3aXRoICBjYXJkcyIsImRwdGEiOiJZb3Ugc2F2ZWQgXHUwMDNjYlx1MDAzZeKCuTE0ODlcdTAwM2MvYlx1MDAzZSIsImlhIjpmYWxzZSwiaWJwIjpmYWxzZX1d",
+                            "ebd": 875.87988,
+                            "ed": "3416137447"
+                        },
+                        "ai": {
+                            "t": "Incl. Taxes & Fees",
+                            "opr": 8473,
+                            "spr": 6281
+                        },
+                        "ets": "Taxes & Fees",
+                        "aip": null,
+                        "gtv": "ing",
+                        "dil": [
+                            "Complimentary  Breakfast is available."
+                        ],
+                        "det_inc": [
+                            {
+                                "t": "Free Breakfast",
+                                "dt": "Complimentary  Breakfast is available.",
+                                "sta": false,
+                                "ib": 0
+                            }
+                        ],
+                        "rpac": 4,
+                        "rpt": "Breakfast | Free Cancellation",
+                        "ebc": 0,
+                        "pm": 1,
+                        "srty": 0,
+                        "bf": 1,
+                        "aif": false,
+                        "sld": "",
+                        "sb": 0,
+                        "cltxt": "Free Cancellation till 9 May'25",
+                        "cltxtc": "#00B318",
+                        "isfc": true,
+                        "is_cp": true,
+                        "cp": [
+                            "Free Cancellation (100% refund) if you cancel this booking before 2025-05-09 11:59:59 (destination time).",
+                            "Cancellations post that will be subject to a hotel fee as follows:From 2025-05-09 12:00:00 (destination time) till 2025-05-10 11:59:59 (destination time) - 100% of booking amount.After 2025-05-10 12:00:00 (destination time) - 100% of booking amount.Cancellations are only allowed before CheckIn."
+                        ],
+                        "cft": {
+                            "pop_up": {
+                                "tag": {
+                                    "IconTagName": "",
+                                    "text": "Free Cancellation",
+                                    "imageUrl": "",
+                                    "bgColour": "#00a2ad",
+                                    "textColour": "#ffffff",
+                                    "persuasionId": "",
+                                    "borderColour": ""
+                                },
+                                "timeline": [
+                                    {
+                                        "time_frames": [
+                                            {
+                                                "circle_colour": "#00a2ad",
+                                                "title": {
+                                                    "IconTagName": "",
+                                                    "text": "Book Today",
+                                                    "imageUrl": "",
+                                                    "bgColour": "",
+                                                    "textColour": "#141823",
+                                                    "persuasionId": "",
+                                                    "borderColour": ""
+                                                },
+                                                "sub_title": {
+                                                    "IconTagName": "",
+                                                    "text": "Pay Now",
+                                                    "imageUrl": "",
+                                                    "bgColour": "",
+                                                    "textColour": "#647a97",
+                                                    "persuasionId": "",
+                                                    "borderColour": ""
+                                                },
+                                                "timeline_intercept": {}
+                                            },
+                                            {
+                                                "circle_colour": "#00a2ad",
+                                                "title": {
+                                                    "IconTagName": "",
+                                                    "text": "until 9 May'25",
+                                                    "imageUrl": "",
+                                                    "bgColour": "",
+                                                    "textColour": "#141823",
+                                                    "persuasionId": "",
+                                                    "borderColour": ""
+                                                },
+                                                "sub_title": {
+                                                    "IconTagName": "",
+                                                    "text": "Cancel for free before 11:59 AM",
+                                                    "imageUrl": "",
+                                                    "bgColour": "",
+                                                    "textColour": "#00a2ad",
+                                                    "persuasionId": "",
+                                                    "borderColour": ""
+                                                },
+                                                "timeline_intercept": {},
+                                                "line_colour": "#00a2ad"
+                                            },
+                                            {
+                                                "circle_colour": "#ffe5e9",
+                                                "title": {
+                                                    "IconTagName": "",
+                                                    "text": "10 May'25",
+                                                    "imageUrl": "",
+                                                    "bgColour": "",
+                                                    "textColour": "#141823",
+                                                    "persuasionId": "",
+                                                    "borderColour": ""
+                                                },
+                                                "sub_title": {
+                                                    "IconTagName": "",
+                                                    "text": "Check-in",
+                                                    "imageUrl": "",
+                                                    "bgColour": "",
+                                                    "textColour": "#647a97",
+                                                    "persuasionId": "",
+                                                    "borderColour": ""
+                                                },
+                                                "timeline_intercept": {
+                                                    "text": "No Refund",
+                                                    "textColour": "#f98293",
+                                                    "borderColor": "#ffd5db",
+                                                    "templateType": 1
+                                                },
+                                                "line_colour": "#ffe5e9"
+                                            }
+                                        ],
+                                        "background_color": "#e1f6f6"
+                                    }
+                                ]
+                            }
+                        },
+                        "cst": "Free Cancellation on this booking if cancelled before till 9 May'25 11:59 AM",
+                        "cot": "b2c",
+                        "cur": "INR",
+                        "grpc": "1001990000095108:MSE:1120:MSE:INGO",
+                        "mpc": "CP",
+                        "mpd": "",
+                        "offercode": "5144702294,",
+                        "pc": "getsetgo",
+                        "rpc": "990000095108:MSE:1120:MSE:INGO",
+                        "rtn": "Deluxe Twin Rooms with Free Breakfast",
+                        "ibp": "v15",
+                        "pa": 1,
+                        "fwdp": {
+                            "ps": "7299|6423|770",
+                            "ts": "2025-03-27T11:04:22",
+                            "xst": "false",
+                            "hctx": "",
+                            "srctx": "",
+                            "sc": "22136f72672362326323623263236e696c23623263",
+                            "sv": "INGO",
+                            "hctxty": "",
+                            "prgen": "0"
+                        },
+                        "rtc": "216220",
+                        "sc": "1120",
+                        "lib": false,
+                        "ccr": 1
+                    }
+                ]
+            },
+            {
+                "gs": "for 2 Guests",
+                "rtc": "2249",
+                "rtn": "Deluxe Room",
+                "arc": 0,
+                "rpl": [
+                    {
+                        "rwt": "",
+                        "gsv": "INGO",
+                        "gseg": "1120",
+                        "hmd": "92db3403-d781-4c47-6caa-ba802f3acce6",
+                        "cnt": 1,
+                        "adp": 0,
+                        "dtc": 0,
+                        "ti": 0,
+                        "use": 1,
+                        "fcp": {
+                            "t": "Free Cancellation till 9 May'25",
+                            "at": "Book now, cancel any time till 9 May'25, get full refund!",
+                            "fct": "fc"
+                        },
+                        "dip": [
+                            {
+                                "pt": "30%",
+                                "ccd": {
+                                    "tc": "#ffffff",
+                                    "bgc": "#e63148"
+                                },
+                                "tp": 3
+                            }
+                        ],
+                        "otp": [
+                            {
+                                "ic": "tThunder",
+                                "pt": "2 offers applied",
+                                "ccd": {
+                                    "tc": "#18a160",
+                                    "bgc": "#e9f6ea"
+                                },
+                                "tp": 7
+                            }
+                        ],
+                        "rip": null,
+                        "pd": {
+                            "cbm": "",
+                            "ga": "",
+                            "ofs": "2 offers applied",
+                            "bofs": "",
+                            "pax": "1-2_0",
+                            "pph": "7299##6423####1316######1174##6281##getsetgo##404##0##0####5138##13##Config:23291:2025-03-17T14:21:58,PS_Config:369:2025-03-17T14:21:22##0##0##5162471644##642##513##77##0####0##0##1-2_0##0##875##1##597##719##0##1120##discount|1120##0##1284####5107",
+                            "emi": "2093",
+                            "emid": {
+                                "bas": 5107,
+                                "tax": 1174,
+                                "fin": 6281,
+                                "e3": 2093,
+                                "e6": 1046,
+                                "e9": 697
+                            },
+                            "opr": 7299,
+                            "spr": 5107,
+                            "dspr": 0,
+                            "tp": 5107,
+                            "rra": 0,
+                            "tnc": 1174,
+                            "do": 1,
+                            "pi": {
+                                "a": 2,
+                                "c": 0,
+                                "i": 0
+                            },
+                            "pDesc": {
+                                "pfx": {
+                                    "t": "1 room",
+                                    "b": 1
+                                },
+                                "sfx": {
+                                    "t": "per night",
+                                    "b": 0
+                                }
+                            },
+                            "abd": "W3siY29kZSI6IkdFVFNFVEdPIiwibXNnIjoiVXNlIEdFVFNFVEdPIHRvIGdldCBpbnN0YW50IGRpc2NvdW50IG9uIHRoaXMgaG90ZWwgYm9va2luZy4iLCJobCI6MCwibGlua191cmwiOiJodHRwczovL3d3dy5nb2liaWJvLmNvbS9vZmZlcnMvaG90ZWwtb2ZmZXJzLyIsImxpbmtfdGV4dCI6IlZpZXcgTW9yZSIsImZwIjo3MDAyLCJmcF93Z2MiOjcwMDIsInRkIjoxMzE2LCJsb2dvIjoiIiwic2JjIjoiIzAwMDAwMCIsImRwdCI6IkdldCBcdTAwM2NiXHUwMDNl4oK5MTMxNlx1MDAzYy9iXHUwMDNlIG9mZiB3aXRoICBjYXJkcyIsImRwdGEiOiJZb3Ugc2F2ZWQgXHUwMDNjYlx1MDAzZeKCuTEzMTZcdTAwM2MvYlx1MDAzZSIsImlhIjp0cnVlLCJpYnAiOmZhbHNlfSx7ImNvZGUiOiJHT0FYSVNGRVNUIiwibXNnIjoiR2V0IGEgZmxhdCAxNSUgb2ZmIGFuZCBlbmpveSBkaXNjb3VudHMgb2YgdXAgdG8gUnMuIDUsMDAwIG9uIHlvdXIgQXhpcyBCYW5rIGNyZWRpdCBjYXJkcy4iLCJobCI6MCwibGlua191cmwiOiJodHRwczovL3d3dy5nb2liaWJvLmNvbS9vZmZlcnMvaG90ZWwtb2ZmZXJzLyIsImxpbmtfdGV4dCI6IlZpZXcgTW9yZSIsImZwIjo2OTI1LCJmcF93Z2MiOjY5MjUsInRkIjoxMzkzLCJsb2dvIjoiIiwic2JjIjoiIzAwMDAwMCIsImRwdCI6IkdldCBcdTAwM2NiXHUwMDNl4oK5MTM5M1x1MDAzYy9iXHUwMDNlIG9mZiB3aXRoICBjYXJkcyIsImRwdGEiOiJZb3Ugc2F2ZWQgXHUwMDNjYlx1MDAzZeKCuTEzOTNcdTAwM2MvYlx1MDAzZSIsImlhIjpmYWxzZSwiaWJwIjpmYWxzZX0seyJjb2RlIjoiR09ZRVMiLCJtc2ciOiJQYXkgdXNpbmcgWUVTIEJhbmsgQ3JlZGl0IENhcmRzIHRvIGF2YWlsIHRoZSBvZmZlci4iLCJobCI6MCwibGlua191cmwiOiJodHRwczovL3d3dy5nb2liaWJvLmNvbS9vZmZlcnMvaG90ZWwtb2ZmZXJzLyIsImxpbmtfdGV4dCI6IlZpZXcgTW9yZSIsImZwIjo2ODI5LCJmcF93Z2MiOjY4MjksInRkIjoxNDg5LCJsb2dvIjoiIiwic2JjIjoiIzAwMDAwMCIsImRwdCI6IkdldCBcdTAwM2NiXHUwMDNl4oK5MTQ4OVx1MDAzYy9iXHUwMDNlIG9mZiB3aXRoICBjYXJkcyIsImRwdGEiOiJZb3Ugc2F2ZWQgXHUwMDNjYlx1MDAzZeKCuTE0ODlcdTAwM2MvYlx1MDAzZSIsImlhIjpmYWxzZSwiaWJwIjpmYWxzZX1d",
+                            "ebd": 875.87988,
+                            "ed": "3416137447"
+                        },
+                        "ai": {
+                            "t": "Incl. Taxes & Fees",
+                            "opr": 8473,
+                            "spr": 6281
+                        },
+                        "ets": "Taxes & Fees",
+                        "aip": null,
+                        "gtv": "ing",
+                        "dil": [
+                            "Complimentary Guaranteed Early Check-In  upto 3 hours before the standard check-in time."
+                        ],
+                        "det_inc": [
+                            {
+                                "t": "Guaranteed Early Check-In upto 3 hours",
+                                "dt": "Complimentary Guaranteed Early Check-In  upto 3 hours before the standard check-in time.",
+                                "sta": false,
+                                "ib": 0
+                            }
+                        ],
+                        "rpac": 2,
+                        "rpt": "Rooms only | Free Cancellation",
+                        "ebc": 0,
+                        "pm": 1,
+                        "srty": 0,
+                        "aif": false,
+                        "sld": "",
+                        "sb": 0,
+                        "cltxt": "Free Cancellation till 9 May'25",
+                        "cltxtc": "#00B318",
+                        "isfc": true,
+                        "is_cp": true,
+                        "cp": [
+                            "Free Cancellation (100% refund) if you cancel this booking before 2025-05-09 11:59:59 (destination time).",
+                            "Cancellations post that will be subject to a hotel fee as follows:From 2025-05-09 12:00:00 (destination time) till 2025-05-10 11:59:59 (destination time) - 100% of booking amount.After 2025-05-10 12:00:00 (destination time) - 100% of booking amount.Cancellations are only allowed before CheckIn."
+                        ],
+                        "cft": {
+                            "pop_up": {
+                                "tag": {
+                                    "IconTagName": "",
+                                    "text": "Free Cancellation",
+                                    "imageUrl": "",
+                                    "bgColour": "#00a2ad",
+                                    "textColour": "#ffffff",
+                                    "persuasionId": "",
+                                    "borderColour": ""
+                                },
+                                "timeline": [
+                                    {
+                                        "time_frames": [
+                                            {
+                                                "circle_colour": "#00a2ad",
+                                                "title": {
+                                                    "IconTagName": "",
+                                                    "text": "Book Today",
+                                                    "imageUrl": "",
+                                                    "bgColour": "",
+                                                    "textColour": "#141823",
+                                                    "persuasionId": "",
+                                                    "borderColour": ""
+                                                },
+                                                "sub_title": {
+                                                    "IconTagName": "",
+                                                    "text": "Pay Now",
+                                                    "imageUrl": "",
+                                                    "bgColour": "",
+                                                    "textColour": "#647a97",
+                                                    "persuasionId": "",
+                                                    "borderColour": ""
+                                                },
+                                                "timeline_intercept": {}
+                                            },
+                                            {
+                                                "circle_colour": "#00a2ad",
+                                                "title": {
+                                                    "IconTagName": "",
+                                                    "text": "until 9 May'25",
+                                                    "imageUrl": "",
+                                                    "bgColour": "",
+                                                    "textColour": "#141823",
+                                                    "persuasionId": "",
+                                                    "borderColour": ""
+                                                },
+                                                "sub_title": {
+                                                    "IconTagName": "",
+                                                    "text": "Cancel for free before 11:59 AM",
+                                                    "imageUrl": "",
+                                                    "bgColour": "",
+                                                    "textColour": "#00a2ad",
+                                                    "persuasionId": "",
+                                                    "borderColour": ""
+                                                },
+                                                "timeline_intercept": {},
+                                                "line_colour": "#00a2ad"
+                                            },
+                                            {
+                                                "circle_colour": "#ffe5e9",
+                                                "title": {
+                                                    "IconTagName": "",
+                                                    "text": "10 May'25",
+                                                    "imageUrl": "",
+                                                    "bgColour": "",
+                                                    "textColour": "#141823",
+                                                    "persuasionId": "",
+                                                    "borderColour": ""
+                                                },
+                                                "sub_title": {
+                                                    "IconTagName": "",
+                                                    "text": "Check-in",
+                                                    "imageUrl": "",
+                                                    "bgColour": "",
+                                                    "textColour": "#647a97",
+                                                    "persuasionId": "",
+                                                    "borderColour": ""
+                                                },
+                                                "timeline_intercept": {
+                                                    "text": "No Refund",
+                                                    "textColour": "#f98293",
+                                                    "borderColor": "#ffd5db",
+                                                    "templateType": 1
+                                                },
+                                                "line_colour": "#ffe5e9"
+                                            }
+                                        ],
+                                        "background_color": "#e1f6f6"
+                                    }
+                                ]
+                            }
+                        },
+                        "cst": "Free Cancellation on this booking if cancelled before till 9 May'25 11:59 AM",
+                        "cot": "b2c",
+                        "cur": "INR",
+                        "grpc": "1001990000468533:MSE:1120:MSE:INGO",
+                        "mpc": "EP",
+                        "mpd": "",
+                        "offercode": "5144702294,",
+                        "pc": "getsetgo",
+                        "rpc": "990000468533:MSE:1120:MSE:INGO",
+                        "rtn": "Deluxe Room",
+                        "ibp": "v15",
+                        "pa": 1,
+                        "fwdp": {
+                            "ps": "7299|6423|770",
+                            "sc": "22136f72672362326323623263236e696c23623263",
+                            "prgen": "0",
+                            "ts": "2025-03-27T11:04:22",
+                            "xst": "false",
+                            "sv": "INGO",
+                            "hctx": "",
+                            "hctxty": "",
+                            "srctx": ""
+                        },
+                        "rtc": "2249",
+                        "sc": "1120",
+                        "lib": false,
+                        "ccr": 1
+                    },
+                    {
+                        "rwt": "",
+                        "gsv": "INGO",
+                        "gseg": "1120",
+                        "hmd": "96b24501-b2e0-4bbf-4f7f-22568ac2addb",
+                        "cnt": 1,
+                        "adp": 0,
+                        "dtc": 0,
+                        "ti": 0,
+                        "use": 1,
+                        "fcp": {
+                            "t": "Free Cancellation till 9 May'25",
+                            "at": "Book now, cancel any time till 9 May'25, get full refund!",
+                            "fct": "fc"
+                        },
+                        "dip": [
+                            {
+                                "pt": "30%",
+                                "ccd": {
+                                    "tc": "#ffffff",
+                                    "bgc": "#e63148"
+                                },
+                                "tp": 3
+                            }
+                        ],
+                        "otp": [
+                            {
+                                "ic": "tThunder",
+                                "pt": "2 offers applied",
+                                "ccd": {
+                                    "tc": "#18a160",
+                                    "bgc": "#e9f6ea"
+                                },
+                                "tp": 7
+                            }
+                        ],
+                        "rip": null,
+                        "pd": {
+                            "cbm": "",
+                            "ga": "",
+                            "ofs": "2 offers applied",
+                            "bofs": "",
+                            "pax": "1-2_0",
+                            "pph": "8199##7215####1440######1319##7094##getsetgo##454##0##0####5772##13##Config:23291:2025-03-17T14:21:58,PS_Config:369:2025-03-17T14:21:22##0##0##5162471644##721##577##86##0####0##0##1-2_0##0##983##1##632##808##0##1120##discount|1120##0##1443####5775",
+                            "emi": "2364",
+                            "emid": {
+                                "bas": 5775,
+                                "tax": 1319,
+                                "fin": 7094,
+                                "e3": 2364,
+                                "e6": 1182,
+                                "e9": 788
+                            },
+                            "opr": 8199,
+                            "spr": 5775,
+                            "dspr": 0,
+                            "tp": 5775,
+                            "rra": 0,
+                            "tnc": 1319,
+                            "do": 1,
+                            "pi": {
+                                "a": 2,
+                                "c": 0,
+                                "i": 0
+                            },
+                            "pDesc": {
+                                "pfx": {
+                                    "t": "1 room",
+                                    "b": 1
+                                },
+                                "sfx": {
+                                    "t": "per night",
+                                    "b": 0
+                                }
+                            },
+                            "abd": "W3siY29kZSI6IkdFVFNFVEdPIiwibXNnIjoiVXNlIEdFVFNFVEdPIHRvIGdldCBpbnN0YW50IGRpc2NvdW50IG9uIHRoaXMgaG90ZWwgYm9va2luZy4iLCJobCI6MCwibGlua191cmwiOiJodHRwczovL3d3dy5nb2liaWJvLmNvbS9vZmZlcnMvaG90ZWwtb2ZmZXJzLyIsImxpbmtfdGV4dCI6IlZpZXcgTW9yZSIsImZwIjo3OTA0LCJmcF93Z2MiOjc5MDQsInRkIjoxNDQwLCJsb2dvIjoiIiwic2JjIjoiIzAwMDAwMCIsImRwdCI6IkdldCBcdTAwM2NiXHUwMDNl4oK5MTQ0MFx1MDAzYy9iXHUwMDNlIG9mZiB3aXRoICBjYXJkcyIsImRwdGEiOiJZb3Ugc2F2ZWQgXHUwMDNjYlx1MDAzZeKCuTE0NDBcdTAwM2MvYlx1MDAzZSIsImlhIjp0cnVlLCJpYnAiOmZhbHNlfSx7ImNvZGUiOiJHT0FYSVNGRVNUIiwibXNnIjoiR2V0IGEgZmxhdCAxNSUgb2ZmIGFuZCBlbmpveSBkaXNjb3VudHMgb2YgdXAgdG8gUnMuIDUsMDAwIG9uIHlvdXIgQXhpcyBCYW5rIGNyZWRpdCBjYXJkcy4iLCJobCI6MCwibGlua191cmwiOiJodHRwczovL3d3dy5nb2liaWJvLmNvbS9vZmZlcnMvaG90ZWwtb2ZmZXJzLyIsImxpbmtfdGV4dCI6IlZpZXcgTW9yZSIsImZwIjo3Nzc5LCJmcF93Z2MiOjc3NzksInRkIjoxNTY1LCJsb2dvIjoiIiwic2JjIjoiIzAwMDAwMCIsImRwdCI6IkdldCBcdTAwM2NiXHUwMDNl4oK5MTU2NVx1MDAzYy9iXHUwMDNlIG9mZiB3aXRoICBjYXJkcyIsImRwdGEiOiJZb3Ugc2F2ZWQgXHUwMDNjYlx1MDAzZeKCuTE1NjVcdTAwM2MvYlx1MDAzZSIsImlhIjpmYWxzZSwiaWJwIjpmYWxzZX0seyJjb2RlIjoiR09ZRVMiLCJtc2ciOiJQYXkgdXNpbmcgWUVTIEJhbmsgQ3JlZGl0IENhcmRzIHRvIGF2YWlsIHRoZSBvZmZlci4iLCJobCI6MCwibGlua191cmwiOiJodHRwczovL3d3dy5nb2liaWJvLmNvbS9vZmZlcnMvaG90ZWwtb2ZmZXJzLyIsImxpbmtfdGV4dCI6IlZpZXcgTW9yZSIsImZwIjo3NjcxLCJmcF93Z2MiOjc2NzEsInRkIjoxNjczLCJsb2dvIjoiIiwic2JjIjoiIzAwMDAwMCIsImRwdCI6IkdldCBcdTAwM2NiXHUwMDNl4oK5MTY3M1x1MDAzYy9iXHUwMDNlIG9mZiB3aXRoICBjYXJkcyIsImRwdGEiOiJZb3Ugc2F2ZWQgXHUwMDNjYlx1MDAzZeKCuTE2NzNcdTAwM2MvYlx1MDAzZSIsImlhIjpmYWxzZSwiaWJwIjpmYWxzZX1d",
+                            "ebd": 983.87988,
+                            "ed": "3416137447"
+                        },
+                        "ai": {
+                            "t": "Incl. Taxes & Fees",
+                            "opr": 9518,
+                            "spr": 7094
+                        },
+                        "ets": "Taxes & Fees",
+                        "aip": null,
+                        "gtv": "ing",
+                        "dil": [
+                            "Complimentary In Room Breakfast is available."
+                        ],
+                        "det_inc": [
+                            {
+                                "t": "Free Breakfast",
+                                "dt": "Complimentary In Room Breakfast is available.",
+                                "sta": false,
+                                "ib": 0
+                            }
+                        ],
+                        "rpac": 2,
+                        "rpt": "Breakfast | Free Cancellation",
+                        "ebc": 0,
+                        "pm": 1,
+                        "srty": 0,
+                        "bf": 1,
+                        "aif": false,
+                        "sld": "",
+                        "sb": 0,
+                        "cltxt": "Free Cancellation till 9 May'25",
+                        "cltxtc": "#00B318",
+                        "isfc": true,
+                        "is_cp": true,
+                        "cp": [
+                            "Free Cancellation (100% refund) if you cancel this booking before 2025-05-09 11:59:59 (destination time).",
+                            "Cancellations post that will be subject to a hotel fee as follows:From 2025-05-09 12:00:00 (destination time) till 2025-05-10 11:59:59 (destination time) - 100% of booking amount.After 2025-05-10 12:00:00 (destination time) - 100% of booking amount.Cancellations are only allowed before CheckIn."
+                        ],
+                        "cft": {
+                            "pop_up": {
+                                "tag": {
+                                    "IconTagName": "",
+                                    "text": "Free Cancellation",
+                                    "imageUrl": "",
+                                    "bgColour": "#00a2ad",
+                                    "textColour": "#ffffff",
+                                    "persuasionId": "",
+                                    "borderColour": ""
+                                },
+                                "timeline": [
+                                    {
+                                        "time_frames": [
+                                            {
+                                                "circle_colour": "#00a2ad",
+                                                "title": {
+                                                    "IconTagName": "",
+                                                    "text": "Book Today",
+                                                    "imageUrl": "",
+                                                    "bgColour": "",
+                                                    "textColour": "#141823",
+                                                    "persuasionId": "",
+                                                    "borderColour": ""
+                                                },
+                                                "sub_title": {
+                                                    "IconTagName": "",
+                                                    "text": "Pay Now",
+                                                    "imageUrl": "",
+                                                    "bgColour": "",
+                                                    "textColour": "#647a97",
+                                                    "persuasionId": "",
+                                                    "borderColour": ""
+                                                },
+                                                "timeline_intercept": {}
+                                            },
+                                            {
+                                                "circle_colour": "#00a2ad",
+                                                "title": {
+                                                    "IconTagName": "",
+                                                    "text": "until 9 May'25",
+                                                    "imageUrl": "",
+                                                    "bgColour": "",
+                                                    "textColour": "#141823",
+                                                    "persuasionId": "",
+                                                    "borderColour": ""
+                                                },
+                                                "sub_title": {
+                                                    "IconTagName": "",
+                                                    "text": "Cancel for free before 11:59 AM",
+                                                    "imageUrl": "",
+                                                    "bgColour": "",
+                                                    "textColour": "#00a2ad",
+                                                    "persuasionId": "",
+                                                    "borderColour": ""
+                                                },
+                                                "timeline_intercept": {},
+                                                "line_colour": "#00a2ad"
+                                            },
+                                            {
+                                                "circle_colour": "#ffe5e9",
+                                                "title": {
+                                                    "IconTagName": "",
+                                                    "text": "10 May'25",
+                                                    "imageUrl": "",
+                                                    "bgColour": "",
+                                                    "textColour": "#141823",
+                                                    "persuasionId": "",
+                                                    "borderColour": ""
+                                                },
+                                                "sub_title": {
+                                                    "IconTagName": "",
+                                                    "text": "Check-in",
+                                                    "imageUrl": "",
+                                                    "bgColour": "",
+                                                    "textColour": "#647a97",
+                                                    "persuasionId": "",
+                                                    "borderColour": ""
+                                                },
+                                                "timeline_intercept": {
+                                                    "text": "No Refund",
+                                                    "textColour": "#f98293",
+                                                    "borderColor": "#ffd5db",
+                                                    "templateType": 1
+                                                },
+                                                "line_colour": "#ffe5e9"
+                                            }
+                                        ],
+                                        "background_color": "#e1f6f6"
+                                    }
+                                ]
+                            }
+                        },
+                        "cst": "Free Cancellation on this booking if cancelled before till 9 May'25 11:59 AM",
+                        "cot": "b2c",
+                        "cur": "INR",
+                        "grpc": "1001990000095110:MSE:1120:MSE:INGO",
+                        "mpc": "CP",
+                        "mpd": "",
+                        "offercode": "5144702294,",
+                        "pc": "getsetgo",
+                        "rpc": "990000095110:MSE:1120:MSE:INGO",
+                        "rtn": "Deluxe Room with Free Breakfast",
+                        "ibp": "v15",
+                        "pa": 1,
+                        "fwdp": {
+                            "xst": "false",
+                            "sc": "22136f72672362326323623263236e696c23623263",
+                            "sv": "INGO",
+                            "hctx": "",
+                            "prgen": "0",
+                            "ps": "8199|7215|865",
+                            "ts": "2025-03-27T11:04:22",
+                            "hctxty": "",
+                            "srctx": ""
+                        },
+                        "rtc": "2249",
+                        "sc": "1120",
+                        "lib": false,
+                        "ccr": 1
+                    }
+                ]
+            }
+        ]
+    },
+    "meta_info": {
+        "gsb": null,
+        "flags": {
+            "gostay": 0,
+            "has_akb": 0,
+            "cf": 0,
+            "is_min_akb": 0,
+            "pah": 0,
+            "pn": 1,
+            "sb": 0,
+            "ti": 0,
+            "pxgrn": 0,
+            "is_hp": 1,
+            "is_aa": 0,
+            "is_ep": 0,
+            "lgdin": 0,
+            "is_nce": 1,
+            "lid": 0,
+            "skip_room_sel": 0,
+            "show_sa": 0,
+            "single_rp_avail": 0
+        },
+        "altpx": "",
+        "bpc": 3,
+        "rf": [
+            {
+                "name": "Free Cancellation",
+                "fc": "fc",
+                "ic": "",
+                "fd": [
+                    {
+                        "rti": 0,
+                        "grpil": [
+                            0,
+                            1
+                        ]
+                    },
+                    {
+                        "rti": 1,
+                        "grpil": [
+                            0,
+                            1
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Free Breakfast",
+                "fc": "fbfi",
+                "ic": "",
+                "fd": [
+                    {
+                        "rti": 0,
+                        "grpil": [
+                            1
+                        ]
+                    },
+                    {
+                        "rti": 1,
+                        "grpil": [
+                            1
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Pay Now",
+                "fc": "pn",
+                "ic": "",
+                "fd": [
+                    {
+                        "rti": 0,
+                        "grpil": [
+                            0,
+                            1
+                        ]
+                    },
+                    {
+                        "rti": 1,
+                        "grpil": [
+                            0,
+                            1
+                        ]
+                    }
+                ]
+            }
+        ],
+        "gf": [
+            {
+                "name": "",
+                "icon_s": "",
+                "icon_u": "",
+                "fl": [
+                    0
+                ],
+                "is_sf": true
+            },
+            {
+                "name": "Add Meals",
+                "icon_s": "https://gos3.ibcdn.com/room_selection_meals-1629965893.png",
+                "icon_u": "",
+                "fl": [
+                    1
+                ],
+                "is_sf": false
+            },
+            {
+                "name": "Pay Options",
+                "icon_s": "https://gos3.ibcdn.com/room_selection_paymodes-1629965840.png",
+                "icon_u": "",
+                "fl": [
+                    2
+                ],
+                "is_sf": false
+            }
+        ],
+        "if": {
+            "name": "Filter Room Types",
+            "icon_s": "",
+            "icon_u": "",
+            "fl": [
+                0,
+                1,
+                2
+            ],
+            "is_sf": false
+        },
+        "ptk": "",
+        "per": {
+            "rt": "",
+            "vbt": ""
+        },
+        "lia": [
+            {
+                "ic": "tFreeBrkFast",
+                "pt": "Free BreakFast Available",
+                "ccd": {
+                    "tc": "#2bac36",
+                    "bgc": "#ffffff"
+                }
+            }
+        ],
+        "akb_msg": "",
+        "dvthr": 7,
+        "hp": [
+            "According to government regulations, a valid Photo ID has to be carried by every person above the age of 18 staying at Hotel Sheetal international. Without valid ID the guest will not be allowed to check in.",
+            "The primary guest checking in to the hotel must be at least 18 years of age.",
+            "The standard check-in time is 12:00 PM and the standard check-out time is 12:00 PM. After booking you will be sent an email confirmation with hotel phone number. You can contact the hotel directly for early check-in or late check-out. Early check-in or late check-out is subject to availability and may be chargeable by Hotel Sheetal international.",
+            "Unmarried/Unrelated couples will not be allowed to check-in. Hotel Sheetal international reserves the right of admission. Accommodation can be denied to guests posing as a 'couple' if suitable proof of identification is not presented at check-in. This is at the full discretion of the hotel management. No refund would be applicable in case the hotel denies check-in under such circumstances.",
+            "Customers with Local IDs will not be allowed to check-in. Hotel Sheetal international reserves the right of admission for local residents. Accommodation can be denied to guests residing in the same city.",
+            "The room tariff includes all taxes. The amount paid for the room does not include charges for optional services and facilities (such as room service, mini bar, snacks or telephone calls). These will be charged by the hotel at the time of check-out from the hotel.",
+            "For any update, the customer shall pay applicable cancellation/modification charges.",
+            "Modified bookings will be subject to availability and revised booking policy of the hotel.",
+            "The cancellation/modification charges are standard and any waiver is entirely on the hotel's discretion.",
+            "Number of modifications possible on a booking will be on the discretion of Goibibo.",
+            "Selective offers of Goibibo will not be valid on cancellation or modification of a booking.",
+            "Any e-coupon discount on the original booking shall be forfeited in the event of cancellation or modification."
+        ],
+        "atyn": "Hotel",
+        "cta": "Select Room",
+        "apu": "Room",
+        "gsm": [
+            "100% Money Back Guarantee*",
+            "Hassle-Free Check-in"
+        ],
+        "req_id": "43113681-6721-469d-46a0-1dad01d43830",
+        "ss_id": "372c6ad2-3e26-4b34-62f7-942e0bd73f0c",
+        "utn": "",
+        "bi": {
+            "is_ab": 0,
+            "btd": null
+        },
+        "cin_t": "12:00 PM",
+        "cout_t": "12:00 PM",
+        "cfh": "805082bd-fd70-4716-7ca0-0a99a23d15a9",
+        "correlation_id": "",
+        "grc": 393,
+        "gr": 3,
+        "grt": "",
+        "gri": 1,
+        "isaas": false
+    },
+    "transfer_exp_intl": 0,
+    "pokus_data": {
+        "PokusVariant": null,
+        "ExperimentDetails": null
+    },
+    "hermes_exp": {
+        "single_poi": false,
+        "new_bookAt1": 0,
+        "new_bnpl_kt": 0,
+        "uni_flow": 0,
+        "Couple_Friendly_Intent": false,
+        "srp_revamp_be": 0,
+        "charity_preselect": 0,
+        "book_at_zero": 0,
+        "srp_revamp_uni": false,
+        "voyager_lightweight": 0,
+        "light_weight_bizcrawl": 0,
+        "newTcsFlow": 0
+    }
+}

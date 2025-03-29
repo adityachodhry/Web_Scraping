@@ -1,0 +1,75 @@
+[
+  {
+    "hotelCode": "String",
+    "propertyName": "String",
+    "info": [
+      {
+        "rateTypeId": "String",
+        "channelId": "String",
+        "channelName": "String",
+        "roomInfo": [
+          {
+            "roomId": "String",
+            "roomName": "String",
+            "roomPlanInfo": [
+              {
+                "roomPlanId": "String",
+                "roomPlanName": "String"
+              },
+              {
+                "roomPlanId": "String",
+                "roomPlanName": "String"
+              }
+            ]
+          },
+          {
+            "roomId": "String",
+            "roomName": "String",
+            "roomPlanInfo": [
+              {
+                "roomPlanId": "String",
+                "roomPlanName": "String"
+              },
+              {
+                "roomPlanId": "String",
+                "roomPlanName": "String"
+              }
+            ]
+          }
+        ]
+      },
+      {   "rateTypeId": "String",
+          "channelId": "String",
+          "channelName": "String",
+          "roomInfo": [
+            {
+              "roomId": "String",
+              "roomPlanInfo": [
+                {
+                  "roomPlanId": "String",
+                  "roomPlanName": "String"
+                },
+                {
+                  "roomPlanId": "String",
+                  "roomPlanName": "String"
+                }
+              ]
+            },
+            {
+              "roomId": "String",
+              "roomPlanInfo": [
+                {
+                  "roomPlanId": "String",
+                  "roomPlanName": "String"
+                },
+                {
+                  "roomPlanId": "String",
+                  "roomPlanName": "String"
+                }
+              ]
+            }
+          ]
+        }
+    ]
+  }
+]

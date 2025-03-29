@@ -1,0 +1,57 @@
+{
+    "propertyCode": "",
+    "timeStamp": "",
+    "promotions": [
+        {
+            "promotionId": "",
+            "promotionName": "",
+            "validFrom": "",
+            "validTo": "",
+            "discount": "",
+            "discountType": "",
+            "stayPeriodFrom": "",
+            "stayPeriodTo": "",
+            "status": "",
+            "lengthOfStay": "",
+            "promotionType": "",
+            "daysOfWeek": "",
+            "stayBlackoutDates": "",
+            "UpdatedBy": "",
+            "UpdatedOn": "",
+            "mobileDiscount": "",
+            "websiteDiscount": "",
+            "platform": "",
+            "UserType": ""
+        },
+        {
+            "promotionId": "",
+            "promotionName": "",
+            "validFrom": "",
+            "validTo": "",
+            "discount": "",
+            "discountType": "",
+            "stayPeriodFrom": "",
+            "stayPeriodTo": "",
+            "status": "",
+            "lengthOfStay": "",
+            "promotionType": "",
+            "daysOfWeek": "",
+            "stayBlackoutDates": ""
+        },
+        {
+            "promotionId": "",
+            "promotionName": "",
+            "validFrom": "",
+            "validTo": "",
+            "discount": "",
+            "discountType": "",
+            "stayPeriodFrom": "",
+            "stayPeriodTo": "",
+            "status": "",
+            "lengthOfStay": "",
+            "promotionType": "",
+            "daysOfWeek": "",
+            "stayBlackoutDates": ""
+        }
+    ]
+}
